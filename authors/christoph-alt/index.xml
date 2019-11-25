@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christoph Alt | DFKI NLP</title>
+    <link>https://dfki-nlp.github.io/authors/christoph-alt/</link>
+      <atom:link href="https://dfki-nlp.github.io/authors/christoph-alt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christoph Alt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2019 07:38:43 +0200</lastBuildDate>
+    <image>
+      <url>https://dfki-nlp.github.io/img/icon-192.png</url>
+      <title>Christoph Alt</title>
+      <link>https://dfki-nlp.github.io/authors/christoph-alt/</link>
+    </image>
+    
+    <item>
+      <title>Layerwise Relevance Visualization in Convolutional Text Graph Classifiers</title>
+      <link>https://dfki-nlp.github.io/publication/publication/layerwise-relevance-visualization-in-convolutional-text-graph-classifiers/</link>
+      <pubDate>Thu, 26 Sep 2019 07:38:43 +0200</pubDate>
+      <guid>https://dfki-nlp.github.io/publication/publication/layerwise-relevance-visualization-in-convolutional-text-graph-classifiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-Tuning Pre-Trained Transformer Language Models to Distantly Supervised Relation Extraction</title>
+      <link>https://dfki-nlp.github.io/publication/publication/fine-tuning-pre-trained-transformer-language-models-to-distantly-supervised-relation-extraction/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://dfki-nlp.github.io/publication/publication/fine-tuning-pre-trained-transformer-language-models-to-distantly-supervised-relation-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Relation Extraction by Pre-Trained Language Representations</title>
+      <link>https://dfki-nlp.github.io/publication/publication/improving-relation-extraction-by-pre-trained-language-representations/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://dfki-nlp.github.io/publication/publication/improving-relation-extraction-by-pre-trained-language-representations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mEx - an Information Extraction Platform for German Medical Text</title>
+      <link>https://dfki-nlp.github.io/publication/publication/mex-an-information-extraction-platform-for-german-medical-text/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://dfki-nlp.github.io/publication/publication/mex-an-information-extraction-platform-for-german-medical-text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Explanations From Language Data</title>
+      <link>https://dfki-nlp.github.io/publication/publication/learning-explanations-from-language-data/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://dfki-nlp.github.io/publication/publication/learning-explanations-from-language-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
