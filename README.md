@@ -1,40 +1,52 @@
-# [Academic Kickstart](https://sourcethemes.com/academic/)
+# How-To
 
-**Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
+First, install Hugo (https://gohugo.io/):
+```bash
+wget https://github.com/gohugoio/hugo/releases/download/v0.59.1/hugo_extended_0.59.1_Linux-64bit.tar.gz
+tar -xvf hugo_extended_0.59.1_Linux-64bit.tar.gz
+sudo mv hugo /usr/local/bin/
+```
 
-**Academic Kickstart** provides a minimal template to kickstart your new website.
+Clone the website repo:
+```bash
+git clone git@github.com:DFKI-NLP/dfki-nlp.github.io.git
+```
 
-- [**Get Started**](#install)
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+Init all submodules in the repo:
+```bash
+cd dfki-nlp.github.io
+git submodule update --init --recursive
+```
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+Serve the website locally (reachable at http://localhost:1313/):
+```bash
+hugo server
+```
 
-## Install
+## Add a publication
 
-You can choose from one of the following four methods to install:
+Assuming that we are in the top-level directory, create a new publication entry:
+```bash
+hugo new --kind publication publication/<my-publication>
+```
 
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
+Go to `content > publication > <my-publication>` and edit `index.md`.
+Here is an example: https://raw.githubusercontent.com/DFKI-NLP/dfki-nlp.github.io/src/content/publication/Fine-tuning-Pre-Trained-Transformer-Language-Models-to-Distantly-Supervised-Relation-Extraction/index.md
 
-Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
+If you add a file called `cite.bib` with a bibtex entry, hugo will create a cite button.
+File (e.g. poster) can be added to the directory and linked to a "poster" button (see example).
+Links to the paper and/or demo can be added as well.
 
-## Ecosystem
+More details can be found here: https://sourcethemes.com/academic/docs/managing-content/#manually
+There is also a way to automatically create a publication from bibtex but it did not work for me: https://sourcethemes.com/academic/docs/managing-content/#automatically
 
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
+## Publish Website
 
-## License
+To publish your changes, add and commit all your changes (make sure the website looks as expected with hugo server):
+```bash
+git commit -m "Added my latest NeurIPS publication"
+git push origin src
+```
 
-Copyright 2017-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
+IMPORTANT: Only push to the src branch!
+The repository contains a Github action that automatically builds and publishes the static page to the master branch.
