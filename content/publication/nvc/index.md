@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Train, Sort, Explain: Learning to Diagnose Translation Models"
-authors: [Robert Schwarzenberg, David Harbecke, Vivien Macketanz, Eleftherios Avramidis, Sebastian Möller]
-date: 2019-03
+title: "Neural Vector Conceptualization for Word Vector Space Interpretation"
+authors: [Robert Schwarzenberg, Lisa Raithel, David Harbecke]
+date: 2019-04
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-03-28T17:40:45+01:00
+publishDate: 2019-04-02T17:55:21+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: 2019-03-28T17:40:45+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (Demonstrations)"
-publication_short: "NAACL"
+publication: "NAACL 2019 Proceedings of the 3rd Workshop on Evaluating Vector Space Representations for NLP"
+publication_short: "RepEval"
 
-abstract: "Evaluating translation models is a trade-off between effort and detail. On the one end of the spectrum there are automatic count-based methods such as BLEU, on the other end linguistic evaluations by humans, which arguably are more informative but also require a disproportionately high effort. To narrow the spectrum, we propose a general approach on how to automatically expose systematic differences between human and machine translations to human experts. Inspired by adversarial settings, we train a neural text classifier to distinguish human from machine translations. A classifier that performs and generalizes well after training should recognize systematic differences between the two classes, which we uncover with neural explainability methods. Our proof-of-concept implementation, DiaMaT, is open source. Applied to a dataset translated by a state-of-the-art neural Transformer model, DiaMaT achieves a classification accuracy of 75% and exposes meaningful differences between humans and the Transformer, amidst the current discussion about human parity."
+abstract: "Distributed word vector spaces are considered hard to interpret which hinders the understanding of natural language processing (NLP) models. In this work, we introduce a new method to interpret arbitrary samples from a word vector space. To this end, we train a neural model to conceptualize word vectors, which means that it activates higher order concepts it recognizes in a given vector. Contrary to prior approaches, our model operates in the original vector space and is capable of learning non-linear relations between word vectors and concepts. Furthermore, we show that it produces considerably less entropic concept activation profiles than the popular cosine similarity."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.aclweb.org/anthology/N19-4006/	
-url_code: https://github.com/dfki-nlp/lrv
+url_pdf: https://www.aclweb.org/anthology/W19-2001/
+url_code: https://github.com/dfki-nlp/nvc
 url_dataset:
 url_poster:
 url_project:
