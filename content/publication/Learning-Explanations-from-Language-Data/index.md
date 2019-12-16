@@ -19,10 +19,10 @@ publication_types: ["1"]
 publication: "Proceedings of the 2018 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP"
 publication_short: "BlackBoxNLP@EMNLP 2018"
 
-abstract: ""
+abstract: "PatternAttribution is a recent method, introduced in the vision domain, that explains classifications of deep neural networks. We demonstrate that it also generates meaningful interpretations in the language domain." 
 
 # Summary. An optional shortened abstract.
-summary: "PatternAttribution is a recent method, introduced in the vision domain, that explains classifications of deep neural networks. We demonstrate that it also generates meaningful interpretations in the language domain."
+summary: 
 
 tags: []
 categories: []
