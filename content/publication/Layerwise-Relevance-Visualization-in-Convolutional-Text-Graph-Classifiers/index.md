@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/1909.10911.pdf
+url_pdf: https://www.aclweb.org/anthology/D19-5308/
 url_code: https://github.com/DFKI-NLP/lrv
 url_dataset:
 url_poster:
