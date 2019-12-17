@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Cross-lingual Neural Vector Conceptualization"
-authors: []
+authors: [Lisa Raithel, Robert Schwarzenberg]
 date: 2019-09
 doi: ""
 
