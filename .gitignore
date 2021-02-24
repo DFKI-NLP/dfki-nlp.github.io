@@ -1,3 +1,8 @@
-public/
+# IDEs
 .idea/
-resources/
+
+# Hugo
+/resources/
+public/
+jsconfig.json
+node_modules/
