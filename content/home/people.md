@@ -10,7 +10,14 @@ title: People
 subtitle: 
 
 content:
-  user_groups: ["Principal Investigators", "Researchers", "PhD Students", "Software Engineers", "Visitors", "Alumni"]
+  user_groups: 
+    - Principal Investigators
+    - Researchers
+    - PhD Students
+    - Software Engineers
+    - Visitors
+    - Alumni
+
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -34,10 +41,13 @@ content:
   
 design:
   # Show user's social networking links? (true/false)
-  show_social: true 
-
+  show_social: true
   # Show user's interests? (true/false)
   show_interests: true
+  # Show user's role?
+  show_role: false
+  # Show user's organizations/affiliations?
+  show_organizations: false
 
   background:
   # Apply a background color, gradient, or image.
