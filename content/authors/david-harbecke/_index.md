@@ -45,9 +45,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=PERSON-ID
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=km2yuA4AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/harbecke
