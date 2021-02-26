@@ -45,9 +45,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=V9G-FOoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://www.semanticscholar.org/author/Robert-Schwarzenberg/1683203
 - icon: github
   icon_pack: fab
   link: https://github.com/rbtsbg
