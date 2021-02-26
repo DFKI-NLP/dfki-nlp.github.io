@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Pattern Guided Integrated Gradients"
+title: "Pattern-Guided Integrated Gradients"
 authors: [Robert Schwarzenberg, Steffen Castle]
 date: 2020-07-29T00:00:00+00:00
 doi: ""
