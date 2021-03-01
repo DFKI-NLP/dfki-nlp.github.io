@@ -18,7 +18,7 @@ organizations:
   url: "https://www.dfki.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 #interests:
@@ -41,16 +41,16 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:lisa-raithel@dfki.de"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:lisa.raithel@dfki.de"  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=V9G-FOoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/ArneBinder
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=de&user=S0TC4zMAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/lraithel
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students 
+- PhD Students
 
 # for filtering in portfolio widget
 tags: [PhD Students]
