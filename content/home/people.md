@@ -14,6 +14,7 @@ content:
     - Principal Investigators
     - Researchers
     - PhD Students
+    - PhD Candidates
     - Software Engineers
     - Visitors
     - Alumni
