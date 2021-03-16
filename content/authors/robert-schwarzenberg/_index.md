@@ -72,7 +72,7 @@ user_groups:
 tags: [PhD Candidates]
 ---
 
-I a PhD Candidate at the [Speech and Language Technologies Lab](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) of the German Research Center for Artificial Intelligence (DFKI). 
+I am a PhD Candidate at the [Speech and Language Technologies Lab](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) of the German Research Center for Artificial Intelligence (DFKI). 
 
 My interests include
 
