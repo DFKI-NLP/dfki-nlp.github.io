@@ -42,15 +42,24 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:eleftherios.avramidis@dfki.de"  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=V9G-FOoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=HhcsbYgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/lefterav
+- icon: browser
+  icon_pack: far
+  link: https://www.dfki.de/en/web/about-us/employee/person/elav01/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Eleftherios-Avramidis  
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/avramidis
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/lefterav
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
