@@ -3,25 +3,20 @@
 title: Christoph Alt
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Senior Researcher
+role:
 
 # Organizations/Affiliations
 organizations:
-- name: German Research Center for Artificial Intelligence
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include transfer-learning, multi-task learning, few- and zero-shot learning.
+bio:
 
 interests:
-- Machine Learning
-- Natural Language Processing
-- Information Extraction
-- Information Retrieval
-- Learning with limited (labeled) data
 
 # education:
 #   courses:
@@ -67,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
-I am a postdoctoral (senior) researcher at the [German Research Center for AI (DFKI)](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/), Berlin. My goal is to solve complex natural language understanding problems with limited (labeled) data, e.g., via transfer-learning, multi-task learning, few- and zero-shot learning.
+Christoph is now a postdoc in the [Machine Learning group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/ml-en/ml) at Humboldt University of Berlin.
