@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Aleksandra Gabryszak"
+title: "Malte Ostendorff"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "aleksandra-gabryszak"
+- "malte-ostendorff"
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.dfki.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 #interests:
@@ -41,16 +41,16 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:aleksandra.gabryszak@dfki.de"  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=V9G-FOoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/
+  link: "mailto:malte.ostendorffg@dfki.de"  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/xyou
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.de/citations?user=8WfhSIcAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/malteos
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,8 +66,24 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates 
+- PhD Candidates
 
 # for filtering in portfolio widget
 tags: [PhD Candidates]
 ---
+
+In my research work, I mainly focus on information retrieval, recommender systems, and natural language processing.
+In particular, techniques for the information extraction from unstructured data such as text and making information more accessible are of great interest for me.
+In my recent work I apply these techniques on content from the legal domain, e.g. laws, patents, case files.
+Moreover, I explore how recommender systems can assist users in finding relevant information to cope with today’s information overload.
+Due to the large amounts of available data, all my work requires the use of scalable and distributed computing. Generally speaking, all topics that are somehow related to the following fields can be considered as my research interest:
+
+*  Recommender Systems
+*  Natural Language Processing
+*  Text Mining
+*  Applied Machine Learning
+*  Scalable Data Processing ("Big Data")
+*  Legal Tech
+
+Feel free to contact me if you have any questions regarding my work.
+I am always open for new ideas, projects and collaborations with other researchers and students.

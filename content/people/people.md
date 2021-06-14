@@ -19,6 +19,7 @@ content:
   - Principal Investigators
   - Researchers
   - PhD Students
+  - PhD Candidates
   - Visitors
   - Alumni
 design:
