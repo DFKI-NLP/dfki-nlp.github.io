@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Defx at SemEval-2020 Task 6: Joint Extraction of Concepts and Relations for Definition Extraction"
-authors: [Marc Hübner, Robert Schwarzenberg, Leonhard Hennig]
+authors: [Marc Hübner, Christoph Alt, Robert Schwarzenberg, Leonhard Hennig]
 date: 2020-12-01T00:00:00+00:00
 doi: ""
 
