@@ -22,7 +22,7 @@ publication_short: "KONVENS 2021"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "We describe the MobIE dataset of German mobility texts annotated for NER, EL and RE."
+summary: ""
 
 tags: []
 categories: []
