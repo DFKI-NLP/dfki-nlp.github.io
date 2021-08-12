@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://github.com/DFKI-NLP/MobIE/blob/master/Konvens_2021_Daystream_Corpus.pdf"
+url_pdf: "https://github.com/DFKI-NLP/MobIE/blob/master/Konvens_2021_MobIE_Corpus.pdf"
 url_code: "https://github.com/DFKI-NLP/MobIE/"
 url_dataset: "https://github.com/DFKI-NLP/MobIE/"
 url_poster:
