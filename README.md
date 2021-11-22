@@ -2,8 +2,8 @@
 
 First, install Hugo (https://gohugo.io/):
 ```bash
-wget https://github.com/gohugoio/hugo/releases/download/v0.59.1/hugo_extended_0.59.1_Linux-64bit.tar.gz
-tar -xvf hugo_extended_0.59.1_Linux-64bit.tar.gz
+wget https://github.com/gohugoio/hugo/releases/download/v0.80.0/hugo_extended_0.80.0_Linux-64bit.tar.gz
+tar -xvf hugo_extended_0.80.0_Linux-64bit.tar.gz
 sudo mv hugo /usr/local/bin/
 ```
 
