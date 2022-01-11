@@ -9,7 +9,7 @@ categories: []
 date: 2021-02-23T11:16:31+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.dfki.de/en/web/research/projects-and-publications/projects-overview/projekt/bbdcii/"
+external_link: "https://www.dfki.de/en/web/research/projects-and-publications/projects-overview/project/bbdcii"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
