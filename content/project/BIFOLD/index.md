@@ -6,7 +6,7 @@ summary: "BIFOLD conducts foundational research in big data management and machi
 authors: [philippe-thomas,leonhard-hennig]
 tags: [Information Extraction]
 categories: []
-date: 2021-02-23T11:16:31+01:00
+date: 2022-01-20T11:16:31+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://bifold.berlin/de/"
