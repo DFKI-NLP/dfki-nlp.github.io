@@ -42,7 +42,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:leonhard.hennig@dfki.de'
+  link: 'mailto:git.nlp@dfki.de'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -52,6 +52,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/dfki-nlp
+- icon: grin
+  icon_pack: fas
+  link: https://huggingface.co/dfki-nlp
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
