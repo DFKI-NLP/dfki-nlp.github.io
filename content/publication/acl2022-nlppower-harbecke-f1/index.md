@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: ""
-authors: [Yuxuan Chen and Jonas Mikkelsen and Christoph Alt and Leonhard Hennig]
+title: "Why only Micro-$F_1$? Class Weighting of Measures for Relation Classification"
+authors: [David Harbecke, Yuxuan Chen, Leonhard Hennig, Christoph Alt]
 date: 2022-05-26T00:00:00+00:00
 doi: ""
 
@@ -16,10 +16,9 @@ publishDate: 2022-03-28T00:00:00+00:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the 7th Workshop on Representation Learning for NLP"
-publication_short: "ACL-REPL4NLP 2022"
-
-abstract: "Pre-trained language models (PLM) are effective components of few-shot named entity recognition (NER) approaches when augmented with continued pre-training on task-specific out-of-domain data or fine-tuning on in-domain data. However, their performance in low-resource scenarios, where such data is not available, remains an open question. We introduce an encoder evaluation framework, and use it to systematically compare the performance of state-of-the-art pre-trained representations on the task of low-resource NER. We analyze a wide range of encoders pre-trained with different strategies, model architectures, intermediate-task fine-tuning, and contrastive learning. Our experimental results across ten benchmark NER datasets in English and German show that encoder performance varies significantly, suggesting that the choice of encoder for a specific low-resource scenario needs to be carefully evaluated."
+publication: "Proceedings of the 1st Workshop on Efficient Benchmarking in NLP"
+publication_short: "ACL-NLPPower 2022"
+abstract: "Relation classification models are conventionally evaluated using only a single measure, e.g., micro-F1, macro-F1 or AUC. In this work, we analyze weighting schemes, such as micro and macro, for imbalanced datasets. We introduce a framework for weighting schemes, where existing schemes are extremes, and two new intermediate schemes. We show that reporting results of different weighting schemes better highlights strengths and weaknesses of a model."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,8 +35,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://github.com/DFKI-NLP/fewie/blob/master/REPL4NLP_2022_Fewie.pdf"
-url_code: "https://github.com/DFKI-NLP/fewie/"
+url_pdf: 
+url_code:
 url_dataset:
 url_poster:
 url_project:
@@ -58,7 +57,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [CORA4NLP,PLASS]
+projects: [CORA4NLP]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

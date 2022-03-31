@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "MobIE: A German Dataset for Named Entity Recognition, Entity Linking and Relation Extraction in the Mobility Domain"
-authors: [Leonhard Hennig, Phuc Tran Truong, Aleksandra Gabryszak]
-date: 2021-09-07T00:00:00+00:00
+title: "A Comparative Study of Pre-trained Encoders for Low-Resource Named Entity Recognition"
+authors: [Yuxuan Chen, Jonas Mikkelsen, Arne Binder, Christoph Alt, Leonhard Hennig]
+date: 2022-05-26T00:00:00+00:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-08-11T00:00:00+00:00
+publishDate: 2022-03-28T00:00:00+00:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: 2021-08-11T00:00:00+00:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the 17th Conference on Natural Language Processing (KONVENS 2021): Short Papers"
-publication_short: "KONVENS 2021"
+publication: "Proceedings of the 7th Workshop on Representation Learning for NLP"
+publication_short: "ACL-REPL4NLP 2022"
 
-abstract: "We present MobIE, a German-language dataset, which is human-annotated with 20 coarse- and fine-grained entity types and entity linking information for geographically linkable entities. The dataset consists of 3,232 social media texts and traffic reports with 91K tokens, and contains 20.5K annotated entities, 13.1K of which are linked to a knowledge base. A subset of the dataset is human-annotated with seven mobility-related, n-ary relation types, while the remaining documents are annotated using a weakly-supervised labeling approach implemented with the Snorkel framework. To the best of our knowledge, this is the first German-language dataset that combines annotations for NER, EL and RE, and thus can be used for joint and multi-task learning of these fundamental information extraction tasks. We make MobIE public at https://github.com/dfki-nlp/mobie."
+abstract: "Pre-trained language models (PLM) are effective components of few-shot named entity recognition (NER) approaches when augmented with continued pre-training on task-specific out-of-domain data or fine-tuning on in-domain data. However, their performance in low-resource scenarios, where such data is not available, remains an open question. We introduce an encoder evaluation framework, and use it to systematically compare the performance of state-of-the-art pre-trained representations on the task of low-resource NER. We analyze a wide range of encoders pre-trained with different strategies, model architectures, intermediate-task fine-tuning, and contrastive learning. Our experimental results across ten benchmark NER datasets in English and German show that encoder performance varies significantly, suggesting that the choice of encoder for a specific low-resource scenario needs to be carefully evaluated."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,9 +36,9 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://github.com/DFKI-NLP/MobIE/blob/master/Konvens_2021_MobIE_Corpus.pdf"
-url_code: "https://github.com/DFKI-NLP/MobIE/"
-url_dataset: "https://github.com/DFKI-NLP/MobIE/"
+url_pdf: "https://github.com/DFKI-NLP/fewie/blob/master/REPL4NLP_2022_Fewie.pdf"
+url_code: "https://github.com/DFKI-NLP/fewie/"
+url_dataset:
 url_poster:
 url_project:
 url_slides:
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [Daystream,CORA4NLP]
+projects: [CORA4NLP,PLASS]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
