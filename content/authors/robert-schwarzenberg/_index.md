@@ -66,13 +66,13 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 
 # for filtering in portfolio widget
-tags: [PhD Candidates]
+tags: [Alumni]
 ---
 
-I am a PhD Candidate at the [Speech and Language Technologies Lab](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) of the German Research Center for Artificial Intelligence (DFKI). 
+I conducted my PhD research at the [Speech and Language Technologies Lab](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) of the German Research Center for Artificial Intelligence (DFKI). 
 
 My interests include
 
