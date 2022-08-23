@@ -19,9 +19,9 @@ organizations:
 - name: LISN
   url: https://www.lisn.upsaclay.fr/
 - name: Technische Universität Berlin
-  url: https://www.universite-paris-saclay.fr/
-- name: Université Paris-Saclay
   url: https://www.tu.berlin/
+- name: Université Paris-Saclay
+  url: https://www.universite-paris-saclay.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -83,11 +83,11 @@ tags: [PhD Candidates]
 Hey!
 
 I'm Lisa, a PhD candidate at both [Technical University Berlin](https://www.tu.berlin/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/). My supervisors are [Pierre Zweigenbaum](https://perso.limsi.fr/pz/) and [Sebastian Möller](https://www.tu.berlin/en/qu/about-us/management/), and I work closely with [Philippe Thomas](https://dfki-nlp.github.io/authors/philippe-thomas/) and [Roland Roller](https://dfki-nlp.github.io/authors/roland-roller/).
-Currently, I am staying at [LISN](https://www.lisn.upsaclay.fr/) close to Paris, France, after that I will move back to Berlin, Germany.
+Currently, I am staying at [LISN](https://www.lisn.upsaclay.fr/) in France, after that I will move back to Berlin, Germany.
 
-I am a [Computational Linguist](https://www.uni-potsdam.de/en/ling/index) (Potsdam University) by training and have a MSc. in [Cognitive Systems](https://www.ling.uni-potsdam.de/cogsys/about.html) (also Potsdam).
+I am a [Computational Linguist](https://www.uni-potsdam.de/en/ling/index) (Potsdam University) and received a MSc. in [Cognitive Systems](https://www.ling.uni-potsdam.de/cogsys/about.html) (also Potsdam).
 
-My thesis is embedded in the trilateral project [KEEPHA](https://keepha.lisn.upsaclay.fr/wiki/doku.php?id=start) where I am researching the possibilities to detect Adverse Drug Reactions across languages.
+My thesis is embedded in the trilateral project [KEEPHA](https://keepha.lisn.upsaclay.fr/wiki/doku.php?id=start) where I am researching the possibilities to detect and extract Adverse Drug Reactions across languages.
 
-I am mostly interested in cross-lingual learning, NLP in health scenarios and, generally, in embeddings.
+I am mostly interested in cross-lingual learning and NLP in health scenarios.
 
