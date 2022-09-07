@@ -1,5 +1,134 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Latest News | DFKI-NLP</title><link>https://dfki-nlp.github.io/post/</link><atom:link href="https://dfki-nlp.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Latest News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© DFKI-NLP 2022</copyright><lastBuildDate>Thu, 31 Mar 2022 09:24:01 +0200</lastBuildDate><image><url>https://dfki-nlp.github.io/images/icon_huc0b6549e8fa4e79b16e8fb1595674659_1240_512x512_fill_lanczos_center_2.png</url><title>Latest News</title><link>https://dfki-nlp.github.io/post/</link></image><item><title>2 papers to be presented at ACL 2022</title><link>https://dfki-nlp.github.io/post/acl2022/</link><pubDate>Thu, 31 Mar 2022 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/acl2022/</guid><description>&lt;p>Two papers from DFKI-NLP authors have been accepted for publication at ACL 2022, the 60th Annual Meeting of the Association for Computational Linguistics. The conference is planned to be a hybrid meeting and will take place in Dublin, Ireland, from May 22nd through May 27th, 2022. One paper is on evaluating pre-trained encoders on the task of low-resource NER across several English and German datasets, the other analyzes relation classification evaluation and suggests that using F1 weightings other than micro-F1 tells us much more about model performance, e.g. on imbalanced datasets.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Latest News | DFKI-NLP</title><link>https://dfki-nlp.github.io/post/</link><atom:link href="https://dfki-nlp.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Latest News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© DFKI-NLP 2022</copyright><lastBuildDate>Tue, 31 May 2022 09:24:01 +0200</lastBuildDate><image><url>https://dfki-nlp.github.io/images/icon_huc0b6549e8fa4e79b16e8fb1595674659_1240_512x512_fill_lanczos_center_2.png</url><title>Latest News</title><link>https://dfki-nlp.github.io/post/</link></image><item><title>1 paper to be presented at JCDL 2022</title><link>https://dfki-nlp.github.io/post/jcdl2022/</link><pubDate>Tue, 31 May 2022 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/jcdl2022/</guid><description>&lt;p>One paper from DFKI-NLP authors has been accepted for publication at JCDL 2022, the 22nd ACM/IEEE Joint Conference on Digital Libraries. The conference is planned to be a hybrid meeting and will take place in Cologne, Germany, from June 20th through June 24th, 2022. The paper proposes to replace generic document embeddings with specialized, per section document embeddings, and evaluates this approach on the task of aspect-based similarity computation for research papers.&lt;/p>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="../authors/malte-ostendorff/">Malte Ostendorff&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/till-blume/">Till Blume&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/terry-ruas/">Terry Ruas&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/bela-gipp/">Bela Gipp&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/georg-rehm/">Georg Rehm&lt;/a>&lt;/span>
+&lt;/span>
+(2022).
+&lt;a href="../publication/jcdl2022-ostendorff/">Specialized Document Embeddings for Aspect-based Similarity of Research Papers&lt;/a>.
+JCDL 2022.
 &lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2203.14541" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/jcdl2022-ostendorff/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/malteos/aspect-document-embeddings" target="_blank" rel="noopener">
+Code
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3529372.3530912" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/p>
+&lt;/div></description></item><item><title>3 papers to be presented at LREC 2022</title><link>https://dfki-nlp.github.io/post/lrec2022/</link><pubDate>Tue, 31 May 2022 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/lrec2022/</guid><description>&lt;p>Three papers from DFKI-NLP authors have been accepted for publication at LREC 2022, the 13th Language Resources and Evaluation Conference. The conference is planned to be a hybrid meeting and will take place in Marseille, France, from June 20th through June 25th, 2022. One paper is on claim extraction and matching in COVID-19-related Legislation, the other presents a novel corpus for German-language Adverse Drug Reaction (ADR) detection in patient-generated content. The third paper also presents a corpus, in this case of German-language tweets annotated with their relevance for public transportation, and with sentiment towards aspects related to barrier-free travel.&lt;/p>
+&lt;p>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="../authors/lisa-raithel/">Lisa Raithel&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/philippe-thomas/">Philippe Thomas&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/roland-roller/">Roland Roller&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/oliver-sapina/">Oliver Sapina&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/sebastian-moller/">Sebastian Möller&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/pierre-zweigenbaum/">Pierre Zweigenbaum&lt;/a>&lt;/span>
+&lt;/span>
+(2022).
+&lt;a href="../publication/lrec2022-raithel-cross-adr/">Cross-lingual Approaches for the Detection of Adverse Drug Reactions in German from a Patient&amp;#39;s Perspective&lt;/a>.
+LREC 2022.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.388.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/lrec2022-raithel-cross-adr/cite.bib">
+Cite
+&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="../authors/niklas-dehio/">Niklas Dehio&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/malte-ostendorff/">Malte Ostendorff&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/georg-rehm/">Georg Rehm&lt;/a>&lt;/span>
+&lt;/span>
+(2022).
+&lt;a href="../publication/lrec2022-dehio/">Claim Extraction and Law Matching for COVID-19-related Legislation&lt;/a>.
+LREC 2022.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.50.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/lrec2022-dehio/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/DFKI-NLP/covid19-law-matching" target="_blank" rel="noopener">
+Code
+&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="../authors/aleksandra-gabryszak/">Aleksandra Gabryszak&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/philippe-thomas/">Philippe Thomas&lt;/a>&lt;/span>
+&lt;/span>
+(2022).
+&lt;a href="../publication/lrec2022-gabryszak/">MobASA: Corpus for Aspect-based Sentiment Analysis and Social Inclusion in the Mobility Domain&lt;/a>.
+CSR @ LREC 2022.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.lrec-conf.org/proceedings/lrec2022/workshops/CSRNLP1/pdf/2022.csrnlp1-1.5.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/lrec2022-gabryszak/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="../project/sim3s/">
+Project
+&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;/p></description></item><item><title>3 papers to be presented at ACL 2022</title><link>https://dfki-nlp.github.io/post/acl2022/</link><pubDate>Thu, 31 Mar 2022 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/acl2022/</guid><description>&lt;p>Three papers from DFKI-NLP authors have been accepted for publication at ACL 2022, the 60th Annual Meeting of the Association for Computational Linguistics. The conference is planned to be a hybrid meeting and will take place in Dublin, Ireland, from May 22nd through May 27th, 2022. One paper is on evaluating pre-trained encoders on the task of low-resource NER across several English and German datasets, the other analyzes relation classification evaluation and suggests that using F1 weightings other than micro-F1 tells us much more about model performance, e.g. on imbalanced datasets. The third paper proposs a novel approach to encode and inject hierarchical structure information explicitly into an extractive, transformer-based summarization model.&lt;/p>
+&lt;p>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="../authors/qian-ruan/">Qian Ruan&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/malte-ostendorff/">Malte Ostendorff&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/georg-rehm/">Georg Rehm&lt;/a>&lt;/span>
+&lt;/span>
+(2022).
+&lt;a href="../publication/acl2022-ruan/">HiStruct&amp;#43;: Improving Extractive Text Summarization with Hierarchical Structure Information&lt;/a>.
+ACL 2022 Findings.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://aclanthology.org/2022.findings-acl.102.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/acl2022-ruan/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/QianRuan/histruct" target="_blank" rel="noopener">
+Code
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.18653/v1/2022.findings-acl.102" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/p>
+&lt;/div>
 &lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
