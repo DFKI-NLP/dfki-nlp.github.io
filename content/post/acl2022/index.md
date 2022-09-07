@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2 papers to be presented at ACL 2022"
+title: "3 papers to be presented at ACL 2022"
 subtitle: ""
 summary: ""
 authors: []
@@ -28,7 +28,8 @@ image:
 projects: []
 ---
 
-Two papers from DFKI-NLP authors have been accepted for publication at ACL 2022, the 60th Annual Meeting of the Association for Computational Linguistics. The conference is planned to be a hybrid meeting and will take place in Dublin, Ireland, from May 22nd through May 27th, 2022. One paper is on evaluating pre-trained encoders on the task of low-resource NER across several English and German datasets, the other analyzes relation classification evaluation and suggests that using F1 weightings other than micro-F1 tells us much more about model performance, e.g. on imbalanced datasets.
+Three papers from DFKI-NLP authors have been accepted for publication at ACL 2022, the 60th Annual Meeting of the Association for Computational Linguistics. The conference is planned to be a hybrid meeting and will take place in Dublin, Ireland, from May 22nd through May 27th, 2022. One paper is on evaluating pre-trained encoders on the task of low-resource NER across several English and German datasets, the other analyzes relation classification evaluation and suggests that using F1 weightings other than micro-F1 tells us much more about model performance, e.g. on imbalanced datasets. The third paper proposs a novel approach to encode and inject hierarchical structure information explicitly into an extractive, transformer-based summarization model.
 
+{{< cite page="/publication/acl2022-ruan" view="4" >}}
 {{< cite page="/publication/acl2022-repl4nlp-chen-fewie" view="4" >}}
 {{< cite page="/publication/acl2022-nlppower-harbecke-f1" view="4" >}}
