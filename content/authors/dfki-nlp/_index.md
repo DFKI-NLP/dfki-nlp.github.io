@@ -54,7 +54,7 @@ social:
   link: https://github.com/dfki-nlp
 - icon: grin
   icon_pack: fas
-  link: https://huggingface.co/dfki-nlp
+  link: https://huggingface.co/DFKI-SLT
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
