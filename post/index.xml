@@ -242,4 +242,26 @@ Project
 &lt;/a>
 &lt;/p>
 &lt;/div>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="../authors/vivien-macketanz/">Vivien Macketanz&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/babak-naderi/">Babak Naderi&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/steven-schmidt/">Steven Schmidt&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/sebastian-moller/">Sebastian Möller&lt;/a>&lt;/span>
+&lt;/span>
+(2022).
+&lt;a href="../publication/acl2022-humeval-macketanz-perceptual/">Perceptual Quality Dimensions of Machine-Generated Text with a Focus on Machine Translation&lt;/a>.
+HumEval @ ACL 2022.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://aclanthology.org/2022.humeval-1.3.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/acl2022-humeval-macketanz-perceptual/cite.bib">
+Cite
+&lt;/a>
+&lt;/p>
+&lt;/div>
 &lt;/p></description></item></channel></rss>
