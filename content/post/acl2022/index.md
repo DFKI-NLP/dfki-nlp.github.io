@@ -33,4 +33,4 @@ Four papers from DFKI-NLP authors have been accepted for publication at [ACL 202
 {{< cite page="/publication/acl2022-ruan" view="4" >}}
 {{< cite page="/publication/acl2022-repl4nlp-chen-fewie" view="4" >}}
 {{< cite page="/publication/acl2022-nlppower-harbecke-f1" view="4" >}}
-{{< cite page="/publication/acl2022-humaneval-macketanz-perceptual" view="4" >}}
+{{< cite page="/publication/acl2022-humeval-macketanz-perceptual" view="4" >}}
