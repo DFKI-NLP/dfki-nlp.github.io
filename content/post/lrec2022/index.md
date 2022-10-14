@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-Three papers from DFKI-NLP authors have been accepted for publication at LREC 2022, the 13th Language Resources and Evaluation Conference. The conference is planned to be a hybrid meeting and will take place in Marseille, France, from June 20th through June 25th, 2022. One paper is on claim extraction and matching in COVID-19-related Legislation, the other presents a novel corpus for German-language Adverse Drug Reaction (ADR) detection in patient-generated content. The third paper also presents a corpus, in this case of German-language tweets annotated with their relevance for public transportation, and with sentiment towards aspects related to barrier-free travel.
+Three papers from DFKI-NLP authors have been accepted for publication at [LREC 2022](https://lrec2022.lrec-conf.org/en/), the 13th Language Resources and Evaluation Conference. The conference is planned to be a hybrid meeting and will take place in Marseille, France, from June 20th through June 25th, 2022. One paper is on claim extraction and matching in COVID-19-related Legislation, the other presents a novel corpus for German-language Adverse Drug Reaction (ADR) detection in patient-generated content. The third paper also presents a corpus, in this case of German-language tweets annotated with their relevance for public transportation, and with sentiment towards aspects related to barrier-free travel.
 
 {{< cite page="/publication/lrec2022-raithel-cross-adr" view="4" >}}
 {{< cite page="/publication/lrec2022-dehio" view="4" >}}

@@ -28,6 +28,6 @@ image:
 projects: []
 ---
 
-One paper from DFKI-NLP authors has been accepted for publication at JCDL 2022, the 22nd ACM/IEEE Joint Conference on Digital Libraries. The conference is planned to be a hybrid meeting and will take place in Cologne, Germany, from June 20th through June 24th, 2022. The paper proposes to replace generic document embeddings with specialized, per section document embeddings, and evaluates this approach on the task of aspect-based similarity computation for research papers.
+One paper from DFKI-NLP authors has been accepted for publication at [JCDL 2022](https://2022.jcdl.org/), the 22nd ACM/IEEE Joint Conference on Digital Libraries. The conference is planned to be a hybrid meeting and will take place in Cologne, Germany, from June 20th through June 24th, 2022. The paper proposes to replace generic document embeddings with specialized, per section document embeddings, and evaluates this approach on the task of aspect-based similarity computation for research papers.
 
 {{< cite page="/publication/jcdl2022-ostendorff" view="4" >}}

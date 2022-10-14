@@ -28,6 +28,6 @@ image:
 projects: []
 ---
 
-One paper from DFKI-NLP authors has been accepted for publication at EMNLP 2022, the 2022 Conference on Empirical Methods in Natural Language Processing. The conference is planned to be a hybrid meeting and will take place in Abu Dhabi, from Dec 7th to Dec 11th, 2022. The paper introduces an efficient and effective method that constructs prompts from relation triples and involves only minimal translation for the class labels, in the case of in-language prompting. We evaluate its performance in fully supervised, few-shot and zero-shot scenarios, and analyze its effectiveness across 14 languages, soft prompt variants, and English-task training in cross-lingual settings. 
+One paper from DFKI-NLP authors has been accepted for publication at [EMNLP 2022](https://2022.emnlp.org/), the 2022 Conference on Empirical Methods in Natural Language Processing. The conference is planned to be a hybrid meeting and will take place in Abu Dhabi, from Dec 7th to Dec 11th, 2022. The paper introduces an efficient and effective method that constructs prompts from relation triples and involves only minimal translation for the class labels, in the case of in-language prompting. We evaluate its performance in fully supervised, few-shot and zero-shot scenarios, and analyze its effectiveness across 14 languages, soft prompt variants, and English-task training in cross-lingual settings. 
 
 {{< cite page="/publication/emnlp2022-chen-meffiprompt" view="4" >}}
