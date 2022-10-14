@@ -24,7 +24,7 @@ abstract: "The quality of machine-generated text is a complex construct consisti
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [sentiment analysis, barrier-free travel]
+tags: [text quality, semantic differential, machine-generated text]
 categories: []
 featured: false
 

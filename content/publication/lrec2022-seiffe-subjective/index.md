@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A Linguistically Motivated Test Suite to Semi-Automatically Evaluate German–English Machine Translation Output"
-authors: [Vivien Macketanz, Eleftherios Avramidis, Aljoscha Burchardt, He Wang, Renlong Ai, Shushen Manakhimova, Ursula Strohriegel, Sebastian Möller, Hans Uszkoreit]
-date: 2022-08-22T15:12:24+02:00
+title: "Subjective Text Complexity Assessment for German"
+authors: [Laura Seiffe, Fares Kallel, Sebastian Möller, Babak Naderi, Roland Roller]
+date: 2022-08-12T15:12:24+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-08-22T15:12:24+02:00
+publishDate: 2022-08-12T15:12:24+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,15 +16,15 @@ publishDate: 2022-08-22T15:12:24+02:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the Thirteenth Language Resources and Evaluation Conference"
+publication: "Proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022)"
 publication_short: "LREC 2022"
 
-abstract: "This paper presents a fine-grained test suite for the language pair German–English. The test suite is based on a number of linguistically motivated categories and phenomena and the semi-automatic evaluation is carried out with regular expressions. We describe the creation and implementation of the test suite in detail, providing a full list of all categories and phenomena. Furthermore, we present various exemplary applications of our test suite that have been implemented in the past years, like contributions to the Conference of Machine Translation, the usage of the test suite and MT outputs for quality estimation, and the expansion of the test suite to the language pair Portuguese–English. We describe how we tracked the development of the performance of various systems MT systems over the years with the help of the test suite and which categories and phenomena are prone to resulting in MT errors. For the first time, we also make a large part of our test suite publicly available to the research community."
+abstract: "For different reasons, text can be difficult to read and understand for many people, especially if the text’s language is too complex. In order to provide suitable text for the target audience, it is necessary to measure its complexity. In this paper we describe subjective experiments to assess the readability of German text. We compile a new corpus of sentences provided by a German IT service provider. The sentences are annotated with the subjective complexity ratings by two groups of participants, namely experts and non-experts for that text domain. We then extract an extensive set of linguistically motivated features that are supposedly interacting with complexity perception. We show that a linear regression model with a subset of these features can be a very good predictor of text complexity."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [machine translation, linguistic test suite]
+tags: []
 categories: []
 featured: false
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://aclanthology.org/2022.lrec-1.99.pdf"
+url_pdf: "https://aclanthology.org/2022.lrec-1.74.pdf"
 url_code:
 url_dataset:
 url_poster:
