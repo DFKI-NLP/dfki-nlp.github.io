@@ -1,6 +1,25 @@
-# How-To
+# Add a publication / edit a post
+Clone the website repo:
+```bash
+git clone git@github.com:DFKI-NLP/dfki-nlp.github.io.git
+```
 
-First, install Hugo (https://gohugo.io/):
+Create a new publication, e.g. by copying an old one:
+```bash
+cp -r content/publication/acl2022-repl4nlp-chen-fewie/
+```
+And edit the files index.md and cite.bib.
+
+Add / update a news post:
+```bash
+cp -r content/post/acl2022
+```
+and edit index.md
+
+
+# How-To (with Hugo)
+
+For local testing, install Hugo (https://gohugo.io/):
 ```bash
 wget https://github.com/gohugoio/hugo/releases/download/v0.80.0/hugo_extended_0.80.0_Linux-64bit.tar.gz
 tar -xvf hugo_extended_0.80.0_Linux-64bit.tar.gz
