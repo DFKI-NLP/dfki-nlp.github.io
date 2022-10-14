@@ -9,13 +9,14 @@ Create a new publication, e.g. by copying an old one:
 cp -r content/publication/acl2022-repl4nlp-chen-fewie/
 ```
 And edit the files index.md and cite.bib.
+Then just commit and push. Check whether the commit was built correctly (e.g. here: https://github.com/DFKI-NLP/dfki-nlp.github.io/actions)
 
 Add / update a news post:
 ```bash
 cp -r content/post/acl2022
 ```
 and edit index.md
-
+Then just commit and push. Check whether the commit was built correctly (e.g. here: https://github.com/DFKI-NLP/dfki-nlp.github.io/actions)
 
 # How-To (with Hugo)
 
