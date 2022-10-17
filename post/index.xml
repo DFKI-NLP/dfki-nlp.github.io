@@ -58,7 +58,7 @@ Code
 DOI
 &lt;/a>
 &lt;/p>
-&lt;/div></description></item><item><title>5 papers to be presented at LREC 2022</title><link>https://dfki-nlp.github.io/post/lrec2022/</link><pubDate>Tue, 31 May 2022 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/lrec2022/</guid><description>&lt;p>Five papers from DFKI-NLP authors have been accepted for publication at &lt;a href="https://lrec2022.lrec-conf.org/en/" target="_blank" rel="noopener">LREC 2022&lt;/a>, the 13th Language Resources and Evaluation Conference. The conference is planned to be a hybrid meeting and will take place in Marseille, France, from June 20th through June 25th, 2022. One paper is on claim extraction and matching in COVID-19-related Legislation, the other presents a novel corpus for German-language Adverse Drug Reaction (ADR) detection in patient-generated content. The third paper also presents a corpus, in this case of German-language tweets annotated with their relevance for public transportation, and with sentiment towards aspects related to barrier-free travel. The fourth paper presents a fine-grained machine translation test suite for the language pair German-English. The test suite is based on a number of linguistically motivated categories and phenomena and the semi-automatic evaluation is carried out with regular expressions. The final paper aims to model subjective text complexity, by constructing and analyzing a German text corpus labeled with expert and non-expert complexity ratings.&lt;/p>
+&lt;/div></description></item><item><title>6 papers to be presented at LREC 2022</title><link>https://dfki-nlp.github.io/post/lrec2022/</link><pubDate>Tue, 31 May 2022 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/lrec2022/</guid><description>&lt;p>Six papers from DFKI-NLP authors have been accepted for publication at &lt;a href="https://lrec2022.lrec-conf.org/en/" target="_blank" rel="noopener">LREC 2022&lt;/a>, the 13th Language Resources and Evaluation Conference. The conference is planned to be a hybrid meeting and will take place in Marseille, France, from June 20th through June 25th, 2022. The paper by Dehio et al. is on claim extraction and matching in COVID-19-related Legislation, the one by Raither et al. presents a novel corpus for German-language Adverse Drug Reaction (ADR) detection in patient-generated content. The paper by Gabryszak et al. also presents a corpus, in this case of German-language tweets annotated with their relevance for public transportation, and with sentiment towards aspects related to barrier-free travel. The fourth paper by Macketanz et al. presents a fine-grained machine translation test suite for the language pair German-English. The test suite is based on a number of linguistically motivated categories and phenomena and the semi-automatic evaluation is carried out with regular expressions. The fSeiffe et al.&amp;rsquo;s paper presents a work on how to model subjective text complexity, by constructing and analyzing a German text corpus labeled with expert and non-expert complexity ratings. The final paper by Calizzano et al. introduces a new dataset called WikinewsSum for English, German, French, Spanish, Portuguese, Polish, and Italian summarisation tailored for extended summaries of approx. 11 sentences, and compares three multilingual transformer models on the extractive summarisation task and three training scenarios on which we fine-tune mT5 to perform abstractive summarisation.&lt;/p>
 &lt;p>
 &lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
@@ -177,6 +177,28 @@ PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publication/lrec2022-seiffe-subjective/cite.bib">
+Cite
+&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="../authors/remi-calizzano/">Rémi Calizzano&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/malte-ostendorff/">Malte Ostendorff&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/qian-ruan/">Qian Ruan&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/georg-rehm/">Georg Rehm&lt;/a>&lt;/span>
+&lt;/span>
+(2022).
+&lt;a href="../publication/lrec2022-calizzano/">&lt;/a>.
+LREC 2022.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://aclanthology.org/2022.lrec-1.175.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/lrec2022-calizzano/cite.bib">
 Cite
 &lt;/a>
 &lt;/p>
