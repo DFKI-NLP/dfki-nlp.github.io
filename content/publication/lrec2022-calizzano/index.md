@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: ""
+title: "Generating Extended and Multilingual Summaries with Pre-trained Transformers"
 authors: [Rémi Calizzano, Malte Ostendorff, Qian Ruan, Georg Rehm]
 date: 2022-08-12T15:12:24+02:00
 doi: ""
