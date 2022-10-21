@@ -7,7 +7,7 @@ date: 2022-10-21T00:00:00+00:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-03-28T00:00:00+00:00
+# publishDate: 2022-03-28T00:00:00+00:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://github.com/DFKI-NLP/sam/blob/main/Argumentation_Mining_on_Sci-Arg.pdf"
+url_pdf: "https://raw.githubusercontent.com/DFKI-NLP/sam/main/Argumentation_Mining_on_Sci-Arg.pdf"
 url_code: "https://github.com/DFKI-NLP/sam"
 url_dataset:
 url_poster:
