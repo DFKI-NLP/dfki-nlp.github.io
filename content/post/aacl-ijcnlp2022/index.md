@@ -31,4 +31,4 @@ projects: []
 One paper from DFKI-NLP authors has been accepted for publication at the [Workshop on Information Extraction from Scientific Publications (WIESP)](https://ui.adsabs.harvard.edu/WIESP/). The workshop will be held at [AACL-IJCNLP 2022](https://www.aacl2022.org/), the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing, which will take place as an online-only event from Nov. 20 to Nov. 23, 2022. The paper proposes a new method for argument mining in full-text scientific documents by combining argumentative discourse unit recognition with relation extraction. 
 
 
-{{< cite page="/publication/aacl2022-wiesp-binder-sam" view="4" >}}
+{{< cite page="/publication/wiesp2022-binder-etal-full" view="4" >}}
