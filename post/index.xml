@@ -29,7 +29,34 @@ DOI
 &lt;/a>
 &lt;/p>
 &lt;/div>
-&lt;/p></description></item><item><title>1 paper to be presented at AACL-IJCNLP 2022</title><link>https://dfki-nlp.github.io/post/aacl-ijcnlp2022/</link><pubDate>Fri, 14 Oct 2022 08:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/aacl-ijcnlp2022/</guid><description>&lt;p>One paper from DFKI-NLP authors has been accepted for publication at the &lt;a href="https://ui.adsabs.harvard.edu/WIESP/" target="_blank" rel="noopener">Workshop on Information Extraction from Scientific Publications (WIESP)&lt;/a>. The workshop will be held at &lt;a href="https://www.aacl2022.org/" target="_blank" rel="noopener">AACL-IJCNLP 2022&lt;/a>, the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing, which will take place as an online-only event from Nov. 20 to Nov. 23, 2022. The paper proposes a new method for argument mining in full-text scientific documents by combining argumentative discourse unit recognition with relation extraction.&lt;/p></description></item><item><title>1 paper to be presented at JCDL 2022</title><link>https://dfki-nlp.github.io/post/jcdl2022/</link><pubDate>Tue, 31 May 2022 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/jcdl2022/</guid><description>&lt;p>One paper from DFKI-NLP authors has been accepted for publication at &lt;a href="https://2022.jcdl.org/" target="_blank" rel="noopener">JCDL 2022&lt;/a>, the 22nd ACM/IEEE Joint Conference on Digital Libraries. The conference is planned to be a hybrid meeting and will take place in Cologne, Germany, from June 20th through June 24th, 2022. The paper proposes to replace generic document embeddings with specialized, per section document embeddings, and evaluates this approach on the task of aspect-based similarity computation for research papers.&lt;/p>
+&lt;/p></description></item><item><title>1 paper to be presented at AACL-IJCNLP 2022</title><link>https://dfki-nlp.github.io/post/aacl-ijcnlp2022/</link><pubDate>Fri, 14 Oct 2022 08:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/aacl-ijcnlp2022/</guid><description>&lt;p>One paper from DFKI-NLP authors has been accepted for publication at the &lt;a href="https://ui.adsabs.harvard.edu/WIESP/" target="_blank" rel="noopener">Workshop on Information Extraction from Scientific Publications (WIESP)&lt;/a>. The workshop will be held at &lt;a href="https://www.aacl2022.org/" target="_blank" rel="noopener">AACL-IJCNLP 2022&lt;/a>, the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing, which will take place as an online-only event from Nov. 20 to Nov. 23, 2022. The paper proposes a new method for argument mining in full-text scientific documents by combining argumentative discourse unit recognition with relation extraction.&lt;/p>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="../authors/arne-binder/">Arne Binder&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/bhuvanesh-verma/">Bhuvanesh Verma&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/leonhard-hennig/">Leonhard Hennig&lt;/a>&lt;/span>
+&lt;/span>
+(2022).
+&lt;a href="../publication/wiesp2022-binder-etal-full/">Full-Text Argumentation Mining on Scientific Publications&lt;/a>.
+WIESP 2022.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://raw.githubusercontent.com/DFKI-NLP/sam/main/Argumentation_Mining_on_Sci-Arg.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/wiesp2022-binder-etal-full/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/DFKI-NLP/sam" target="_blank" rel="noopener">
+Code
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="../project/cora4nlp/">
+Project
+&lt;/a>
+&lt;/p>
+&lt;/div></description></item><item><title>1 paper to be presented at JCDL 2022</title><link>https://dfki-nlp.github.io/post/jcdl2022/</link><pubDate>Tue, 31 May 2022 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/jcdl2022/</guid><description>&lt;p>One paper from DFKI-NLP authors has been accepted for publication at &lt;a href="https://2022.jcdl.org/" target="_blank" rel="noopener">JCDL 2022&lt;/a>, the 22nd ACM/IEEE Joint Conference on Digital Libraries. The conference is planned to be a hybrid meeting and will take place in Cologne, Germany, from June 20th through June 24th, 2022. The paper proposes to replace generic document embeddings with specialized, per section document embeddings, and evaluates this approach on the task of aspect-based similarity computation for research papers.&lt;/p>
 &lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
