@@ -4,7 +4,7 @@
 title: "Multilingual Relation Classification via Efficient and Effective Prompting"
 authors: ["Yuxuan Chen", "David Harbecke", "Leonhard Hennig"]
 date: 2022-10-22T10:33:03+02:00
-doi: ""
+doi: "10.48550/arXiv.2210.13838"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-10-22T10:33:03+02:00
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2210.13838"
 url_code: "https://github.com/DFKI-NLP/meffi-prompt"
 url_dataset:
 url_poster:
