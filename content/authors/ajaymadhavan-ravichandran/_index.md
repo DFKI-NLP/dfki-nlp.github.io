@@ -40,7 +40,7 @@ bio:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: aja
+  icon_pack: fas
   link: "mailto:ajay_madhavan.ravichandran@dfki.de"  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
@@ -49,7 +49,7 @@ social:
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=V9G-FOoAAAAJ
 - icon: github
-  icon_pack: aja
+  icon_pack: fab
   link: https://github.com/aj280192
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
