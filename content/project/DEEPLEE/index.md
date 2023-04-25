@@ -3,7 +3,7 @@
 
 title: "DEEPLEE"
 summary: "The research work in DEEPLEE, which is carried out in the Language Technology research departments in Saabrücken and Berlin, builds on DFKI's expertise in the areas of deep learning (DL) and language technology (LT) and develops it further. They aim for profound improvements of DL approaches in LT by focusing on four central, open research topics: Modularity in DNN architectures, Use of external knowledge, DNNs with explanation functionality, Machine Teaching Strategies for DNNs"
-authors: [sven-schmeier, christoph-alt, robert-schwarzenberg]
+authors: ["Sven Schmeier", "Christoph Alt", "Robert Schwarzenberg"]
 tags: [Information Extraction, Language Understanding]
 categories: []
 date: 2021-02-23T11:16:31+01:00
