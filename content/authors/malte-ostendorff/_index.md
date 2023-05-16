@@ -51,6 +51,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/malteos
+- icon: link
+  icon_pack: fas
+  link: https://ostendorff.org
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,7 +77,7 @@ tags: [PhD Candidates]
 
 In my research work, I mainly focus on information retrieval, recommender systems, and natural language processing.
 In particular, techniques for the information extraction from unstructured data such as text and making information more accessible are of great interest for me.
-In my recent work I apply these techniques on content from the legal domain, e.g. laws, patents, case files.
+In my recent work I apply these techniques on content from the [legal domain](https://openlegaldata.io/), e.g. laws, patents, case files.
 Moreover, I explore how recommender systems can assist users in finding relevant information to cope with today’s information overload.
 Due to the large amounts of available data, all my work requires the use of scalable and distributed computing. Generally speaking, all topics that are somehow related to the following fields can be considered as my research interest:
 
@@ -84,6 +87,7 @@ Due to the large amounts of available data, all my work requires the use of scal
 *  Applied Machine Learning
 *  Scalable Data Processing ("Big Data")
 *  Legal Tech
+*  Language Models
 
 Feel free to contact me if you have any questions regarding my work.
 I am always open for new ideas, projects and collaborations with other researchers and students.
