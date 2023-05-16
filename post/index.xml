@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Latest News | DFKI-NLP</title><link>https://dfki-nlp.github.io/post/</link><atom:link href="https://dfki-nlp.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Latest News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© DFKI-NLP 2019-2023</copyright><lastBuildDate>Fri, 14 Oct 2022 09:24:01 +0200</lastBuildDate><image><url>https://dfki-nlp.github.io/images/icon_huc0b6549e8fa4e79b16e8fb1595674659_1240_512x512_fill_lanczos_center_2.png</url><title>Latest News</title><link>https://dfki-nlp.github.io/post/</link></image><item><title>2 papers to be presented at EMNLP 2022</title><link>https://dfki-nlp.github.io/post/emnlp2022/</link><pubDate>Fri, 14 Oct 2022 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/emnlp2022/</guid><description>&lt;p>Two papers from DFKI-NLP authors have been accepted for publication at &lt;a href="https://2022.emnlp.org/" target="_blank" rel="noopener">EMNLP 2022&lt;/a>, the 2022 Conference on Empirical Methods in Natural Language Processing. The conference is planned to be a hybrid meeting and will take place in Abu Dhabi, from Dec 7th to Dec 11th, 2022. The first paper introduces an efficient and effective method that constructs prompts from relation triples and involves only minimal translation for the class labels, in the case of in-language prompting. We evaluate its performance in fully supervised, few-shot and zero-shot scenarios across 14 languages, soft prompt variants, and English-task training in cross-lingual settings. The second paper proposes neighborhood contrastive learning for the representation learning of scientific document and achieves new state-of-the-art results on the SciDocs benchmark.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Latest News | DFKI-NLP</title><link>https://dfki-nlp.github.io/post/</link><atom:link href="https://dfki-nlp.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Latest News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© DFKI-NLP 2019-2023</copyright><lastBuildDate>Mon, 08 May 2023 09:24:01 +0200</lastBuildDate><image><url>https://dfki-nlp.github.io/images/icon_huc0b6549e8fa4e79b16e8fb1595674659_1240_512x512_fill_lanczos_center_2.png</url><title>Latest News</title><link>https://dfki-nlp.github.io/post/</link></image><item><title>2 papers to be presented at ACL 2023</title><link>https://dfki-nlp.github.io/post/acl2023/</link><pubDate>Mon, 08 May 2023 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/acl2023/</guid><description>&lt;p>Two papers from DFKI-NLP researchers have been accepted for publication at ACL 2023, the 61st Annual Meeting of the Association for Computational Linguistics. The conference is planned to be a hybrid meeting and will take place in Toronto, Canada, from Jul 9th through July 14th, 2023. One paper presents a multilingual version of the TAC relation extraction dataset that covers 12 additional languages beside the original English, the other examines writing patterns to verify, identify, and link unique vendor accounts across text advertisements on public Darknet markets, enabling Law Enforcement Agencies to make more informed decisions.&lt;/p>
+&lt;p>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="../authors/leonhard-hennig/">Leonhard Hennig&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/philippe-thomas/">Philippe Thomas&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/sebastian-moller/">Sebastian Möller&lt;/a>&lt;/span>
+&lt;/span>
+(2023).
+&lt;a href="../publication/acl2023-hennig-multitacred/">MultiTACRED: A Multilingual Version of the TAC Relation Extraction Dataset&lt;/a>.
+ACL 2023.
+&lt;p>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/acl2023-hennig-multitacred/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/DFKI-NLP/MultiTACRED" target="_blank" rel="noopener">
+Code
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="../project/cora4nlp/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="../project/plass/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="../project/text2tech/">
+Project
+&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="../authors/vageesh-saxena/">Vageesh Saxena&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/nils-rethmeier/">Nils Rethmeier&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/gijs-van-dijck/">Gijs Van Dijck&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/gerasimos-spanakis/">Gerasimos Spanakis&lt;/a>&lt;/span>
+&lt;/span>
+(2023).
+&lt;a href="../publication/acl2023-rethmeier-vendorlink/">VendorLink: An NLP approach for Identifying &amp;amp; Linking Vendor Migrants &amp;amp; Potential Aliases on Darknet Markets&lt;/a>.
+ACL 2023.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2305.02763v1.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/acl2023-rethmeier-vendorlink/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/maastrichtlawtech/VendorLink" target="_blank" rel="noopener">
+Code
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="../project/cora4nlp/">
+Project
+&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;/p></description></item><item><title>2 papers to be presented at EMNLP 2022</title><link>https://dfki-nlp.github.io/post/emnlp2022/</link><pubDate>Fri, 14 Oct 2022 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/emnlp2022/</guid><description>&lt;p>Two papers from DFKI-NLP authors have been accepted for publication at &lt;a href="https://2022.emnlp.org/" target="_blank" rel="noopener">EMNLP 2022&lt;/a>, the 2022 Conference on Empirical Methods in Natural Language Processing. The conference is planned to be a hybrid meeting and will take place in Abu Dhabi, from Dec 7th to Dec 11th, 2022. The first paper introduces an efficient and effective method that constructs prompts from relation triples and involves only minimal translation for the class labels, in the case of in-language prompting. We evaluate its performance in fully supervised, few-shot and zero-shot scenarios across 14 languages, soft prompt variants, and English-task training in cross-lingual settings. The second paper proposes neighborhood contrastive learning for the representation learning of scientific document and achieves new state-of-the-art results on the SciDocs benchmark.&lt;/p>
 &lt;p>
 &lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
