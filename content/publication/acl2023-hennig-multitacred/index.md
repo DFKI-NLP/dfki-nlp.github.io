@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2305.04582.pdf"
 url_code: "https://github.com/DFKI-NLP/MultiTACRED"
 url_dataset:
 url_poster:
