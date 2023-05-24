@@ -31,6 +31,9 @@ Project
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="./project/text2tech/">
 Project
 &lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.48550/arXiv.2305.04582" target="_blank" rel="noopener">
+DOI
+&lt;/a>
 &lt;/p>
 &lt;/div>
 &lt;div class="pub-list-item" style="margin-bottom: 1rem">
