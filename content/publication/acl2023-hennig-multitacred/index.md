@@ -4,7 +4,7 @@
 title: "MultiTACRED: A Multilingual Version of the TAC Relation Extraction Dataset"
 authors: ["Leonhard Hennig", "Philippe Thomas", "Sebastian Möller"]
 date: 2023-05-08T10:33:03+02:00
-doi: ""
+doi: "10.48550/arXiv.2305.04582"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-05-08T10:33:03+02:00
