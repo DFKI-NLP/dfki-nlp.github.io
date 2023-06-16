@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Latest News | DFKI-NLP</title><link>https://dfki-nlp.github.io/post/</link><atom:link href="https://dfki-nlp.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Latest News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© DFKI-NLP 2019-2023</copyright><lastBuildDate>Mon, 08 May 2023 09:24:01 +0200</lastBuildDate><image><url>https://dfki-nlp.github.io/images/icon_hu15d4cd24fad375030c8e4d8f45deb950_164099_512x512_fill_lanczos_center_2.png</url><title>Latest News</title><link>https://dfki-nlp.github.io/post/</link></image><item><title>2 papers to be presented at ACL 2023</title><link>https://dfki-nlp.github.io/post/acl2023/</link><pubDate>Mon, 08 May 2023 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/acl2023/</guid><description>&lt;p>Two papers from DFKI-NLP researchers have been accepted for publication at ACL 2023, the 61st Annual Meeting of the Association for Computational Linguistics. The conference is planned to be a hybrid meeting and will take place in Toronto, Canada, from Jul 9th through July 14th, 2023. One paper presents a multilingual version of the TAC relation extraction dataset that covers 12 additional languages beside the original English, the other examines writing patterns to verify, identify, and link unique vendor accounts across text advertisements on public Darknet markets, enabling Law Enforcement Agencies to make more informed decisions.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Latest News | DFKI-NLP</title><link>https://dfki-nlp.github.io/post/</link><atom:link href="https://dfki-nlp.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Latest News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© DFKI-NLP 2019-2023</copyright><lastBuildDate>Mon, 08 May 2023 09:24:01 +0200</lastBuildDate><image><url>https://dfki-nlp.github.io/images/icon_hu15d4cd24fad375030c8e4d8f45deb950_164099_512x512_fill_lanczos_center_2.png</url><title>Latest News</title><link>https://dfki-nlp.github.io/post/</link></image><item><title>5 papers to be presented at ACL 2023</title><link>https://dfki-nlp.github.io/post/acl2023/</link><pubDate>Mon, 08 May 2023 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/acl2023/</guid><description>&lt;p>Five papers from DFKI-NLP researchers have been accepted for publication at ACL 2023, the 61st Annual Meeting of the Association for Computational Linguistics. The conference is planned to be a hybrid meeting and will take place in Toronto, Canada, from Jul 9th through July 14th, 2023.
+The first one presents a multilingual version of the TAC relation extraction dataset that covers 12 additional languages beside the original English,
+the second examines writing patterns to verify, identify, and link unique vendor accounts across text advertisements on public Darknet markets, enabling Law Enforcement Agencies to make more informed decisions.
+The third is about neural machine translation methods for translating text to sign language glosses.
+The fourth is an interpretability toolkit for sequence generation models,
+while the fifth is a comparative study of feature attribution representations, including model-free and instruction-based methods for saliency map verbalization.&lt;/p>
 &lt;p>
 &lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
@@ -61,6 +66,78 @@ Code
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="../project/cora4nlp/">
 Project
+&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="../authors/dele-zhu/">Dele Zhu&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/vera-czehmann/">Vera Czehmann&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/eleftherios-avramidis/">Eleftherios Avramidis&lt;/a>&lt;/span>
+&lt;/span>
+(2023).
+&lt;a href="../publication/acl2023-zhu-sign/">Neural Machine Translation Methods for Translating Text to Sign Language Glosses&lt;/a>.
+ACL 2023.
+&lt;p>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/acl2023-zhu-sign/cite.bib">
+Cite
+&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="../authors/gabriele-sarti/">Gabriele Sarti&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/nils-feldhus/">Nils Feldhus&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/ludwig-sickert/">Ludwig Sickert&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/oskar-van-der-wal/">Oskar van der Wal&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/malvina-nissim/">Malvina Nissim&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/arianna-bisazza/">Arianna Bisazza&lt;/a>&lt;/span>
+&lt;/span>
+(2023).
+&lt;a href="../publication/acl2023-sarti-inseq/">Inseq: An Interpretability Toolkit for Sequence Generation Models&lt;/a>.
+ACL 2023 Demos.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2302.13942" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/acl2023-sarti-inseq/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/inseq-team/inseq" target="_blank" rel="noopener">
+Code
+&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="../authors/nils-feldhus/">Nils Feldhus&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/leonhard-hennig/">Leonhard Hennig&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/maximilian-dustin-nasert/">Maximilian Dustin Nasert&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/christopher-ebert/">Christopher Ebert&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/robert-schwarzenberg/">Robert Schwarzenberg&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/sebastian-moller/">Sebastian Möller&lt;/a>&lt;/span>
+&lt;/span>
+(2023).
+&lt;a href="../publication/acl2023-feldhus-smv/">Saliency Map Verbalization: Comparing Feature Importance Representations from Model-free and Instruction-based Methods&lt;/a>.
+ACL 2023 NLRSE.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2210.07222" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/acl2023-feldhus-smv/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/DFKI-NLP/SMV/" target="_blank" rel="noopener">
+Code
 &lt;/a>
 &lt;/p>
 &lt;/div>
