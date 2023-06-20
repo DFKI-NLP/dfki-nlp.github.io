@@ -4,7 +4,7 @@ draft: false
 ---
 
 ## Responsible service provider
-Responsible for the content of the domain cora4nlp.github.io from the point of view of § 5 TMG:
+Responsible for the content of the domain dfki-nlp.github.io from the point of view of § 5 TMG:
 
 Deutsches Forschungszentrum für Künstliche Intelligenz GmbH (DFKI)
 Management:
