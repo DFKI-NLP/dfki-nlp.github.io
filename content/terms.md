@@ -7,31 +7,31 @@ draft: false
 Responsible for the content of the domain dfki-nlp.github.io from the point of view of § 5 TMG:
 
 Deutsches Forschungszentrum für Künstliche Intelligenz GmbH (DFKI)
-Management:
-Prof. Dr. Antonio Krüger
-Helmut Ditzer
-Trippstadter Str. 122
-67663 Kaiserslautern
-Germany
-Phone: +49 631 20575 0
-Fax: +49 631 20575 5030
-Email: info@dfki.de
+Management:  
+Prof. Dr. Antonio Krüger  
+Helmut Ditzer  
+Trippstadter Str. 122  
+67663 Kaiserslautern  
+Germany  
+Phone: +49 631 20575 0  
+Fax: +49 631 20575 5030  
+Email: info@dfki.de  
 
-Register Court: Amtsgericht Kaiserslautern
-Register Number: HRB 2313
+Register Court: Amtsgericht Kaiserslautern  
+Register Number: HRB 2313  
 
-ID-Number: DE 148 646 973
+ID-Number: DE 148 646 973  
 
 
 The person responsible for the editorial content of the domain cora4nlp.github.io of the German Research Center for Artificial Intelligence GmbH within the meaning of § 18 para. 2 MStV is:
 
-Dr. Leonhard Hennig, Senior Researcher
-DFKI Lab Berlin
-Alt-Moabit 91c
-D-10559 Berlin
-Tel: +49 (0)30 / 238 95-0
-Email: leonhard.hennig@dfki.de
-Website URL: www.dfki.de
+Dr. Leonhard Hennig, Senior Researcher  
+DFKI Lab Berlin  
+Alt-Moabit 91c  
+D-10559 Berlin  
+Tel: +49 (0)30 / 238 95-0  
+Email: leonhard.hennig@dfki.de  
+Website URL: www.dfki.de  
 
 
 ## Legal notice concerning liability for proprietary content

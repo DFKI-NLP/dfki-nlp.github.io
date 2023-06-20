@@ -7,13 +7,13 @@ The German Research Center for Artificial Intelligence (Deutsches Forschungszent
 
 ## Responsible service provider
 
-German Research Center for Artificial Intelligence (DFKI)
-Phone: +49 (0)631 / 205 75-0, Email: info@dfki.de
+German Research Center for Artificial Intelligence (DFKI)  
+Phone: +49 (0)631 / 205 75-0, Email: info@dfki.de  
 
 ## Data Protection Officer
 
-Phone: +49 (0)631 / 205 75-0
-Email: datenschutz@dfki.de
+Phone: +49 (0)631 / 205 75-0  
+Email: datenschutz@dfki.de  
 
 ## Intended use
 
