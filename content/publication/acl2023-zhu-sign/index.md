@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
 publication_short: "ACL 2023"
 
-abstract: ""
+abstract: "State-of-the-art techniques common to low resource Machine Translation (MT) are applied to improve MT of spoken language text to Sign Language (SL) glosses. In our experiments, we improve the performance of the transformer-based models via (1) data augmentation, (2) semi-supervised Neural Machine Translation (NMT), (3) transfer learning and (4) multilingual NMT. The proposed methods are implemented progressively on two German SL corpora containing gloss annotations. Multilingual NMT combined with data augmentation appear to be the most successful setting, yielding statistically significant improvements as measured by three automatic metrics (up to over 6 points BLEU), and confirmed via human evaluation. Our best setting outperforms all previous work that report on the same test-set and is also confirmed on a corpus of the American Sign Language (ASL)."
 # Summary. An optional shortened abstract.
 summary: ""
 
@@ -35,7 +35,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: ""
+url_pdf: "https://aclanthology.org/2023.acl-long.700.pdf"
 url_code: ""
 url_dataset:
 url_poster:
