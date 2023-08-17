@@ -31,7 +31,7 @@ projects: []
 Five papers from DFKI-NLP researchers have been accepted for publication at ACL 2023, the 61st Annual Meeting of the Association for Computational Linguistics. The conference is planned to be a hybrid meeting and will take place in Toronto, Canada, from Jul 9th through July 14th, 2023. 
 The first one presents a multilingual version of the TAC relation extraction dataset that covers 12 additional languages beside the original English, 
 the second examines writing patterns to verify, identify, and link unique vendor accounts across text advertisements on public Darknet markets, enabling Law Enforcement Agencies to make more informed decisions.
-The third is about neural machine translation methods for translating text to sign language glosses.
+The third is about neural machine translation methods for translating text to sign language glosses, and has received an outstanding paper award. 
 The fourth is an interpretability toolkit for sequence generation models,
 while the fifth is a comparative study of feature attribution representations, including model-free and instruction-based methods for saliency map verbalization.
 
