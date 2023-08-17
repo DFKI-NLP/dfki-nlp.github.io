@@ -103,6 +103,9 @@ Project
 &lt;a href="../publication/acl2023-zhu-sign/">Neural Machine Translation Methods for Translating Text to Sign Language Glosses&lt;/a>.
 ACL 2023.
 &lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://aclanthology.org/2023.acl-long.700.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publication/acl2023-zhu-sign/cite.bib">
 Cite
