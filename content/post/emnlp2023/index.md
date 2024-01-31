@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "1 paper accepted to EMNLP Findings 2023"
+title: "Multiple papers by DFKI authors accepted to EMNLP 2023 and co-located events"
 subtitle: ""
 summary: ""
 authors: []
@@ -28,6 +28,21 @@ image:
 projects: []
 ---
 
-One paper from DFKI-NLP authors has been accepted for publication as a Findings paper at [EMNLP 2023](https://2023.emnlp.org/), the 2023 Conference on Empirical Methods in Natural Language Processing. The conference is planned to be a hybrid meeting and will take place in Singapore, from Dec 6th to Dec 10th, 2023. The paper introduces the InterroLang framework for dialog-based explanations of NLP models and datasets. It adapts the conversational explanation framework TalkToModel to the NLP domain, and add new NLP-specific operations such as free-text rationalizations.
+DFKI had a strong presence at the [2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)](https://2023.emnlp.org/), one of the top venues of language technology, that took place on December 6-10 in Singapore. The research center was represented by the departments [MLT](https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology), [SLT](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology), and [DRΧ](https://www.dfki.de/en/web/research/research-departments/design-research-explorations) with 11 papers, presented by 10 researchers. The papers appeared in the main conference as well as 3 co-located events: [“Conference for Machine Translation” (WMT)](http://www.statmt.org/wmt23/), [“Workshop on analyzing and interpreting neural networks for NLP” (BlackboxNLP)](https://blackboxnlp.github.io/), and [“Workshop on Computational Models of Reference, Anaphora and Coreference” (CRAC)](https://sites.google.com/view/crac2023/).  
 
-{{< cite page="/publication/emnlp2023-feldhus-interrolang" view="4" >}}
+Additionally, DFKI researchers contributed to the organization of the workshops by participating in the organization committees in 3 shared tasks and particularly the ones on Sign Language Translation, Generic Machine Translation and Machine Translation Metrics. Noteworthy is also the participation of the DFKI researchers in the program committees, where one researcher was an Area Chair in the Semantics track of the main conference, and numerous others contributed with peer-reviewing of submitted papers. The participation in the conference was supported by current research projects, as presentation of their recent results. Some of these projects were: CORA4NLP (BMBF), IMPRESS (INRIA-DFKI), SFB 1102 “Information Density and Linguistic Encoding” (DFG), SocialWear (BMBF), TextQ (DFG) and XAINES (BMBF).  
+
+The DFKI papers presented at the conference are the following:  
+
+ - [Challenging the State-of-the-art Machine Translation Metrics from a Linguistic Perspective](https://intranet.dfki.de/research/publications/showPublication?pubid=14643)
+ - [Find-2-Find: Multitask Learning for Anaphora Resolution and Object Localization](https://intranet.dfki.de/research/publications/showPublication?pubid=14607)
+ - [Findings of the 2023 Conference on Machine Translation (WMT23): LLMs Are Here but Not Quite There Yet](https://intranet.dfki.de/research/publications/showPublication?pubid=14596)
+ - [Findings of the Second WMT Shared Task on Sign Language Translation (WMT-SLT23)](https://intranet.dfki.de/research/publications/showPublication?pubid=14597)
+ - [InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations](https://intranet.dfki.de/research/publications/showPublication?pubid=14060) 
+ - [Investigating the Encoding of Words in BERT's Neurons using Feature Textualization](https://intranet.dfki.de/research/publications/showPublication?pubid=14608)
+ - [Linguistically Motivated Evaluation of the 2023 State-of-the-art Machine Translation: Can ChatGPT Outperform NMT?](https://intranet.dfki.de/research/publications/showPublication?pubid=14500)
+ - [Multilingual Coarse Political Stance Classification of Media. The Editorial Line of a ChatGPT and Bard Newspaper](https://intranet.dfki.de/research/publications/showPublication?pubid=14615)
+ - [Multilingual coreference resolution: Adapt and Generate](https://intranet.dfki.de/research/publications/showPublication?pubid=14636)
+ - [Results of WMT23 Metrics Shared Task: Metrics Might Be Guilty but References Are Not Innocent](https://intranet.dfki.de/research/publications/showPublication?pubid=14644)
+ - [Translating away Translationese without Parallel Data](https://intranet.dfki.de/research/publications/showPublication?pubid=14614)
+ - [Where exactly does contextualization in a PLM happen?](https://arxiv.org/abs/2312.06514)
