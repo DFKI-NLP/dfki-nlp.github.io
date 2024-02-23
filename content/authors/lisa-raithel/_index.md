@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: Post-doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
 - name: BIFOLD
-  url:
+  url: https://www.bifold.berlin/
 # - name: LISN
 #   url: https://www.lisn.upsaclay.fr/
 - name: Technische Universität Berlin
@@ -26,10 +26,10 @@ organizations:
 #   url: https://www.universite-paris-saclay.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+# bio:
 
 # List each interest with a dash
-Research interests:
+interests:
 - Biomedical/clinical NLP, focusing on the patients' perspective
 - Information Extraction
 - Cross-lingual/cultural language modeling/analysis
@@ -99,6 +99,6 @@ I am mostly interested in cross-lingual learning and NLP in health scenarios.
  -->
 Hey!
 
-I am Lisa, a post-doctoral researcher at [Technische Universität Berlin](https://www.tu.berlin/) at the [Quality and Usability Lab](https://www.tu.berlin/qu/forschung/forschungsgruppen) and [BIFOLD](https://www.bifold.berlin/) and a guest researcher at DFKI GmbH, working closely with [Philippe Thomas](https://dfki-nlp.github.io/authors/philippe-thomas/) and [Roland Roller](https://dfki-nlp.github.io/authors/roland-roller/).
+I am Lisa, a post-doc at [Technische Universität Berlin](https://www.tu.berlin/) at the [Quality and Usability Lab](https://www.tu.berlin/qu/forschung/forschungsgruppen) and [BIFOLD](https://www.bifold.berlin/) and a guest researcher at DFKI GmbH, working closely with [Philippe Thomas](https://dfki-nlp.github.io/authors/philippe-thomas/) and [Roland Roller](https://dfki-nlp.github.io/authors/roland-roller/).
 
-After obtaining my master's degree at [Universität Potsdam](https://www.uni-potsdam.de/en/ling/index) in Computational Linguistics (B.Sc. in Computational Linguistics, M.Sc. in Cognitive Systems), I briefly worked as a software engineer at Giance (now Unicepta) before transitioning back to academia for a double degree PhD program (cotutelle) at Technische Universität Berlin and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/) under the supervision of [Prof. Sebastian Möller](https://www.tu.berlin/en/qu/about-us/management/) and [Pierre Zweigenbaum](https://perso.limsi.fr/pz/), Directeur de Recherche CNRS. My doctoral research focused on cross-lingual information extraction for the detection of adverse drug reactions. During that time, I spent one year at [LISN](https://www.lisn.upsaclay.fr/) in Orsay, France (2021 - 2022) and three months at the [Social Computing Lab](https://sociocom.naist.jp/) at [NAIST](http://www.naist.jp/) in Nara, Japan (2023). In February 2024, I successfully defended my thesis at TU Berlin.
+I obtained my master's degree at [Universität Potsdam](https://www.uni-potsdam.de/en/ling/index) in Computational Linguistics (B.Sc. in Computational Linguistics, M.Sc. in Cognitive Systems). I then briefly worked as a software engineer before transitioning back to academia for a double degree PhD program (cotutelle) at TU Berlin and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/). I was supervised by [Prof. Sebastian Möller](https://www.tu.berlin/en/qu/about-us/management/) and [Pierre Zweigenbaum](https://perso.limsi.fr/pz/), Directeur de Recherche CNRS. My doctoral research focused on cross-lingual information extraction for the detection of adverse drug reactions. During that time, I spent one year at [LISN](https://www.lisn.upsaclay.fr/) in Orsay, France (2021 - 2022) and three months at the [Social Computing Lab](https://sociocom.naist.jp/) at [NAIST](http://www.naist.jp/) in Nara, Japan (2023). In February 2024, I successfully defended my thesis at TU Berlin.
