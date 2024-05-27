@@ -69,10 +69,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers 
+- Alumni
 
 # for filtering in portfolio widget
-tags: [PhD Candidates]
+tags: [Alumni]
 ---
 
 In my research work, I mainly focus on information retrieval, recommender systems, and natural language processing.
