@@ -2,12 +2,12 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Symmetric Dot-Product Attention for Efficient Training of BERT Language Models"
-authors: [Martin Courtois, Malte Ostendorff, Leonhard Hennig, Georg, Rehm]
-date: 2024-05-16T00:00:00+00:00
+authors: [Martin Courtois, Malte Ostendorff, Leonhard Hennig, Georg Rehm]
+date: 2024-07-12T00:00:00+00:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-05-16T00:00:00+00:00
+publishDate: 2024-07-12T00:00:00+00:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,8 +16,8 @@ publishDate: 2024-05-16T00:00:00+00:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The 62nd Annual Meeting of the Association for Computational Linguistics"
-publication_short: "ACL 2024"
+publication: "Findings of the 62nd Annual Meeting of the Association for Computational Linguistics"
+publication_short: "Findings 2024"
 
 abstract: "Initially introduced as a machine translation model, the Transformer architecture has now become the foundation for modern deep learning architecture, with applications in a wide range of fields, from computer vision to natural language processing. Nowadays, to tackle increasingly more complex tasks, Transformer-based models are stretched to enormous sizes, requiring increasingly larger training datasets, and unsustainable amount of compute resources. The ubiquitous nature of the Transformer and its core component, the attention mechanism, are thus prime targets for efficiency research. In this work, we propose an alternative compatibility function for the self-attention mechanism introduced by the Transformer architecture. This compatibility function exploits an overlap in the learned representation of the traditional scaled dot-product attention, leading to a symmetric with pairwise coefficient dot-product attention. When applied to the pre-training of BERT-like models, this new symmetric attention mechanism reaches a score of 79.36 on the GLUE benchmark against 78.74 for the traditional implementation, leads to a reduction of 6% in the number of trainable parameters, and reduces the number of training steps required before convergence by half."
 
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [OpenGPT-X, TRAILS]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
