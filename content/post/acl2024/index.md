@@ -35,7 +35,7 @@ The participation in the conference was supported by current research projects, 
 The DFKI papers presented at the conference are the following:  
 
 {{< cite page="/publication/acl2024-raki-chen" view="4" >}}
-{{< cite page="/publication/acl2024-dialam-binder" view="4" >}}
+{{< cite page="/publication/binder-etal-2024-dfki" view="4" >}}
 {{< cite page="/publication/acl2024-evaluating-macphail" view="4" >}}
 {{< cite page="/publication/acl2024-symmetric-courtois" view="4" >}}
 {{< cite page="/publication/acl2024-towards-maschhur" view="4" >}}
