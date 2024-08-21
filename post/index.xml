@@ -37,12 +37,18 @@ Cite
 &lt;a href="../authors/simon-ostermann/">Simon Ostermann&lt;/a>&lt;/span>
 &lt;/span>
 (2024).
-&lt;a href="../publication/acl2024-dialam-binder/">DFKI-MLST at DialAM-2024 Shared Task: System Description&lt;/a>.
+&lt;a href="../publication/binder-etal-2024-dfki/">DFKI-MLST at DialAM-2024 Shared Task: System Description&lt;/a>.
 ArgMining 2024.
 &lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://aclanthology.org/2024.argmining-1.9.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-data-filename="/publication/acl2024-dialam-binder/cite.bib">
+data-filename="/publication/binder-etal-2024-dfki/cite.bib">
 Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/ArneBinder/dialam-2024-shared-task" target="_blank" rel="noopener">
+Code
 &lt;/a>
 &lt;/p>
 &lt;/div>
