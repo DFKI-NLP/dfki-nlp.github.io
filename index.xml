@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DFKI-NLP</title><link>https://dfki-nlp.github.io/</link><atom:link href="https://dfki-nlp.github.io/index.xml" rel="self" type="application/rss+xml"/><description>DFKI-NLP</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© DFKI-NLP 2019-2024</copyright><lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate><image><url>https://dfki-nlp.github.io/images/icon_hu15d4cd24fad375030c8e4d8f45deb950_164099_512x512_fill_lanczos_center_2.png</url><title>DFKI-NLP</title><link>https://dfki-nlp.github.io/</link></image><item><title>DFKI-MLST at DialAM-2024 Shared Task: System Description</title><link>https://dfki-nlp.github.io/publication/binder-etal-2024-dfki/</link><pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate><guid>https://dfki-nlp.github.io/publication/binder-etal-2024-dfki/</guid><description/></item><item><title>Multiple papers by DFKI authors accepted to ACL 2024 and co-located events</title><link>https://dfki-nlp.github.io/post/acl2024/</link><pubDate>Fri, 12 Jul 2024 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/acl2024/</guid><description>&lt;p>DFKI will have a strong presence at the &lt;a href="https://2024.aclweb.org/" target="_blank" rel="noopener">62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)&lt;/a>, one of the top venues of language technology, that will take place August 11-16 in Bangkok, Thailand. Researchers from &lt;a href="https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology" target="_blank" rel="noopener">Speech and Language Technology department&lt;/a> will present 6 papers. The papers appeared in the main conference (Findings) as well as 3 co-located events: &lt;a href="https://argmining-org.github.io/2024/" target="_blank" rel="noopener">The 11th Workshop on Argument Mining&lt;/a>, the &lt;a href="https://aclweb.org/aclwiki/BioNLP_Workshop" target="_blank" rel="noopener">BioNLP 2024 and Shared Tasks Workshop&lt;/a>, and the &lt;a href="https://knowledgeable-lm.github.io/" target="_blank" rel="noopener">Towards Knowledgeable Language Models Workshop&lt;/a>.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DFKI-NLP</title><link>https://dfki-nlp.github.io/</link><atom:link href="https://dfki-nlp.github.io/index.xml" rel="self" type="application/rss+xml"/><description>DFKI-NLP</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© DFKI-NLP 2019-2024</copyright><lastBuildDate>Sat, 21 Sep 2024 10:33:03 +0200</lastBuildDate><image><url>https://dfki-nlp.github.io/images/icon_hu15d4cd24fad375030c8e4d8f45deb950_164099_512x512_fill_lanczos_center_2.png</url><title>DFKI-NLP</title><link>https://dfki-nlp.github.io/</link></image><item><title>Enhancing Editorial Tasks: A Case Study on Rewriting Customer Help Page Contents Using Large Language Models</title><link>https://dfki-nlp.github.io/publication/gabryszak-etal-2024-enhancing/</link><pubDate>Sat, 21 Sep 2024 10:33:03 +0200</pubDate><guid>https://dfki-nlp.github.io/publication/gabryszak-etal-2024-enhancing/</guid><description/></item><item><title>Two papers accepted to INLG 2024</title><link>https://dfki-nlp.github.io/post/inlg2024/</link><pubDate>Thu, 22 Aug 2024 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/inlg2024/</guid><description>&lt;p>Two papers from DFKI NLP researchers have been accepted at the &lt;a href="https://inlg2024.github.io/" target="_blank" rel="noopener">17th International Natural Language Generation Conference (INLG 2024)&lt;/a> that will take place September 23-27 in Tokyo, Japan. One paper presents a case study on using large language models to produce customer-friendly help page contents from more technical text, and includes a text quality evaluation by experienced editors. The other paper analyzes echo chamber effects in LLM-based chatbots in political conversations.&lt;/p>
+&lt;p>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="./authors/aleksandra-gabryszak/">Aleksandra Gabryszak&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="./authors/daniel-roder/">Daniel Röder&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="./authors/arne-binder/">Arne Binder&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="./authors/luca-sion/">Luca Sion&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="./authors/leonhard-hennig/">Leonhard Hennig&lt;/a>&lt;/span>
+&lt;/span>
+(2024).
+&lt;a href="./publication/gabryszak-etal-2024-enhancing/">Enhancing Editorial Tasks: A Case Study on Rewriting Customer Help Page Contents Using Large Language Models&lt;/a>.
+INLG 2024.
+&lt;p>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/gabryszak-etal-2024-enhancing/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/DFKI-NLP/faq-rewrites-llms" target="_blank" rel="noopener">
+Dataset
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="./project/trails/">
+Project
+&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="./authors/maximilian-bleick/">Maximilian Bleick&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="./authors/nils-feldhus/">Nils Feldhus&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="./authors/aljoscha-burchardt/">Aljoscha Burchardt&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="./authors/sebastian-moller/">Sebastian Möller&lt;/a>&lt;/span>
+&lt;/span>
+(2023).
+&lt;a href="./publication/bleick-etal-2024-german/">German Voter Personas can Radicalize LLM Chatbots via the Echo Chamber Effect&lt;/a>.
+INLG 2024.
+&lt;p>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/bleick-etal-2024-german/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="./project/trails/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.48550/arXiv.2305.04582" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;/p></description></item><item><title>DFKI-MLST at DialAM-2024 Shared Task: System Description</title><link>https://dfki-nlp.github.io/publication/binder-etal-2024-dfki/</link><pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate><guid>https://dfki-nlp.github.io/publication/binder-etal-2024-dfki/</guid><description/></item><item><title>TRAILS - Trustworthy and Inclusive Machines</title><link>https://dfki-nlp.github.io/project/trails/</link><pubDate>Thu, 01 Aug 2024 11:16:31 +0100</pubDate><guid>https://dfki-nlp.github.io/project/trails/</guid><description/></item><item><title>Multiple papers by DFKI authors accepted to ACL 2024 and co-located events</title><link>https://dfki-nlp.github.io/post/acl2024/</link><pubDate>Fri, 12 Jul 2024 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/acl2024/</guid><description>&lt;p>DFKI will have a strong presence at the &lt;a href="https://2024.aclweb.org/" target="_blank" rel="noopener">62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)&lt;/a>, one of the top venues of language technology, that will take place August 11-16 in Bangkok, Thailand. Researchers from &lt;a href="https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology" target="_blank" rel="noopener">Speech and Language Technology department&lt;/a> will present 6 papers. The papers appeared in the main conference (Findings) as well as 3 co-located events: &lt;a href="https://argmining-org.github.io/2024/" target="_blank" rel="noopener">The 11th Workshop on Argument Mining&lt;/a>, the &lt;a href="https://aclweb.org/aclwiki/BioNLP_Workshop" target="_blank" rel="noopener">BioNLP 2024 and Shared Tasks Workshop&lt;/a>, and the &lt;a href="https://knowledgeable-lm.github.io/" target="_blank" rel="noopener">Towards Knowledgeable Language Models Workshop&lt;/a>.&lt;/p>
 &lt;p>The participation in the conference was supported by current research projects, as presentation of their recent results. Some of these projects were: TRAILS (BMBF), KEEPHA (BMBF), and XAINES (BMBF).&lt;/p>
 &lt;p>The DFKI papers presented at the conference are the following:&lt;/p>
 &lt;p>
@@ -50,6 +103,9 @@ Cite
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/ArneBinder/dialam-2024-shared-task" target="_blank" rel="noopener">
 Code
 &lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="./project/trails/">
+Project
+&lt;/a>
 &lt;/p>
 &lt;/div>
 &lt;div class="pub-list-item" style="margin-bottom: 1rem">
@@ -75,6 +131,9 @@ Cite
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/dfki-nlp/ade_templates" target="_blank" rel="noopener">
 Code
 &lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="./project/trails/">
+Project
+&lt;/a>
 &lt;/p>
 &lt;/div>
 &lt;div class="pub-list-item" style="margin-bottom: 1rem">
@@ -99,6 +158,9 @@ Cite
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/mcrts/ACL2024-SymmetricAttentionBert" target="_blank" rel="noopener">
 Code
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="./project/trails/">
+Project
 &lt;/a>
 &lt;/p>
 &lt;/div>
@@ -203,7 +265,7 @@ Cite
 Project
 &lt;/a>
 &lt;/p>
-&lt;/div></description></item><item><title>Factuality Detection using Machine Translation - a Use Case for German Clinical Text</title><link>https://dfki-nlp.github.io/publication/konvens2023-binsumait-etal-factuality/</link><pubDate>Thu, 17 Aug 2023 08:33:03 +0200</pubDate><guid>https://dfki-nlp.github.io/publication/konvens2023-binsumait-etal-factuality/</guid><description/></item><item><title>European Language Equality, Report on Europe's Sign Languages</title><link>https://dfki-nlp.github.io/publication/vandeghinste-2023-ele-sign/</link><pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate><guid>https://dfki-nlp.github.io/publication/vandeghinste-2023-ele-sign/</guid><description/></item><item><title>Inseq: An Interpretability Toolkit for Sequence Generation Models</title><link>https://dfki-nlp.github.io/publication/acl2023-sarti-inseq/</link><pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate><guid>https://dfki-nlp.github.io/publication/acl2023-sarti-inseq/</guid><description/></item><item><title>Neural Machine Translation Methods for Translating Text to Sign Language Glosses</title><link>https://dfki-nlp.github.io/publication/acl2023-zhu-sign/</link><pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate><guid>https://dfki-nlp.github.io/publication/acl2023-zhu-sign/</guid><description/></item><item><title>Saliency Map Verbalization: Comparing Feature Importance Representations from Model-free and Instruction-based Methods</title><link>https://dfki-nlp.github.io/publication/acl2023-feldhus-smv/</link><pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate><guid>https://dfki-nlp.github.io/publication/acl2023-feldhus-smv/</guid><description/></item><item><title>The MultiTACRED dataset</title><link>https://dfki-nlp.github.io/dataset/multitacred/</link><pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate><guid>https://dfki-nlp.github.io/dataset/multitacred/</guid><description/></item><item><title>Efficient Language Model Training through Cross-Lingual and Progressive Transfer Learning</title><link>https://dfki-nlp.github.io/publication/pml4dc-2023-ostendorff/</link><pubDate>Tue, 16 May 2023 09:39:26 +0200</pubDate><guid>https://dfki-nlp.github.io/publication/pml4dc-2023-ostendorff/</guid><description/></item><item><title>MultiTACRED: A Multilingual Version of the TAC Relation Extraction Dataset</title><link>https://dfki-nlp.github.io/publication/acl2023-hennig-multitacred/</link><pubDate>Mon, 08 May 2023 10:33:03 +0200</pubDate><guid>https://dfki-nlp.github.io/publication/acl2023-hennig-multitacred/</guid><description/></item><item><title>SapBERT-Based Medical Concept Normalization Using SNOMED CT</title><link>https://dfki-nlp.github.io/publication/shti2023-abdulnazar-sapbert/</link><pubDate>Mon, 08 May 2023 10:33:03 +0200</pubDate><guid>https://dfki-nlp.github.io/publication/shti2023-abdulnazar-sapbert/</guid><description/></item><item><title>VendorLink: An NLP approach for Identifying &amp; Linking Vendor Migrants &amp; Potential Aliases on Darknet Markets</title><link>https://dfki-nlp.github.io/publication/acl2023-rethmeier-vendorlink/</link><pubDate>Mon, 08 May 2023 10:33:03 +0200</pubDate><guid>https://dfki-nlp.github.io/publication/acl2023-rethmeier-vendorlink/</guid><description/></item><item><title>5 papers to be presented at ACL 2023</title><link>https://dfki-nlp.github.io/post/acl2023/</link><pubDate>Mon, 08 May 2023 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/acl2023/</guid><description>&lt;p>Five papers from DFKI-NLP researchers have been accepted for publication at ACL 2023, the 61st Annual Meeting of the Association for Computational Linguistics. The conference is planned to be a hybrid meeting and will take place in Toronto, Canada, from Jul 9th through July 14th, 2023.
+&lt;/div></description></item><item><title>Factuality Detection using Machine Translation - a Use Case for German Clinical Text</title><link>https://dfki-nlp.github.io/publication/konvens2023-binsumait-etal-factuality/</link><pubDate>Thu, 17 Aug 2023 08:33:03 +0200</pubDate><guid>https://dfki-nlp.github.io/publication/konvens2023-binsumait-etal-factuality/</guid><description/></item><item><title>European Language Equality, Report on Europe's Sign Languages</title><link>https://dfki-nlp.github.io/publication/vandeghinste-2023-ele-sign/</link><pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate><guid>https://dfki-nlp.github.io/publication/vandeghinste-2023-ele-sign/</guid><description/></item><item><title>Inseq: An Interpretability Toolkit for Sequence Generation Models</title><link>https://dfki-nlp.github.io/publication/acl2023-sarti-inseq/</link><pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate><guid>https://dfki-nlp.github.io/publication/acl2023-sarti-inseq/</guid><description/></item><item><title>Neural Machine Translation Methods for Translating Text to Sign Language Glosses</title><link>https://dfki-nlp.github.io/publication/acl2023-zhu-sign/</link><pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate><guid>https://dfki-nlp.github.io/publication/acl2023-zhu-sign/</guid><description/></item><item><title>Saliency Map Verbalization: Comparing Feature Importance Representations from Model-free and Instruction-based Methods</title><link>https://dfki-nlp.github.io/publication/acl2023-feldhus-smv/</link><pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate><guid>https://dfki-nlp.github.io/publication/acl2023-feldhus-smv/</guid><description/></item><item><title>The MultiTACRED dataset</title><link>https://dfki-nlp.github.io/dataset/multitacred/</link><pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate><guid>https://dfki-nlp.github.io/dataset/multitacred/</guid><description/></item><item><title>Efficient Language Model Training through Cross-Lingual and Progressive Transfer Learning</title><link>https://dfki-nlp.github.io/publication/pml4dc-2023-ostendorff/</link><pubDate>Tue, 16 May 2023 09:39:26 +0200</pubDate><guid>https://dfki-nlp.github.io/publication/pml4dc-2023-ostendorff/</guid><description/></item><item><title>German Voter Personas can Radicalize LLM Chatbots via the Echo Chamber Effect</title><link>https://dfki-nlp.github.io/publication/bleick-etal-2024-german/</link><pubDate>Mon, 08 May 2023 10:33:03 +0200</pubDate><guid>https://dfki-nlp.github.io/publication/bleick-etal-2024-german/</guid><description/></item><item><title>MultiTACRED: A Multilingual Version of the TAC Relation Extraction Dataset</title><link>https://dfki-nlp.github.io/publication/acl2023-hennig-multitacred/</link><pubDate>Mon, 08 May 2023 10:33:03 +0200</pubDate><guid>https://dfki-nlp.github.io/publication/acl2023-hennig-multitacred/</guid><description/></item><item><title>SapBERT-Based Medical Concept Normalization Using SNOMED CT</title><link>https://dfki-nlp.github.io/publication/shti2023-abdulnazar-sapbert/</link><pubDate>Mon, 08 May 2023 10:33:03 +0200</pubDate><guid>https://dfki-nlp.github.io/publication/shti2023-abdulnazar-sapbert/</guid><description/></item><item><title>VendorLink: An NLP approach for Identifying &amp; Linking Vendor Migrants &amp; Potential Aliases on Darknet Markets</title><link>https://dfki-nlp.github.io/publication/acl2023-rethmeier-vendorlink/</link><pubDate>Mon, 08 May 2023 10:33:03 +0200</pubDate><guid>https://dfki-nlp.github.io/publication/acl2023-rethmeier-vendorlink/</guid><description/></item><item><title>5 papers to be presented at ACL 2023</title><link>https://dfki-nlp.github.io/post/acl2023/</link><pubDate>Mon, 08 May 2023 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/acl2023/</guid><description>&lt;p>Five papers from DFKI-NLP researchers have been accepted for publication at ACL 2023, the 61st Annual Meeting of the Association for Computational Linguistics. The conference is planned to be a hybrid meeting and will take place in Toronto, Canada, from Jul 9th through July 14th, 2023.
 The first one presents a multilingual version of the TAC relation extraction dataset that covers 12 additional languages beside the original English,
 the second examines writing patterns to verify, identify, and link unique vendor accounts across text advertisements on public Darknet markets, enabling Law Enforcement Agencies to make more informed decisions.
 The third is about neural machine translation methods for translating text to sign language glosses, and has received an outstanding paper award.
