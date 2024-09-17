@@ -47,7 +47,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.dfki.de/fileadmin/user_upload/import/15191_Telekom__FAQ_Rewriting__INLG_Review_Submission-1.pdf"
+url_pdf: "https://aclanthology.org/2024.inlg-main.33.pdf"
 url_code: ""
 url_dataset: "https://github.com/DFKI-NLP/faq-rewrites-llms"
 url_poster:
