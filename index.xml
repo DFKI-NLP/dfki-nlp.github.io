@@ -14,7 +14,7 @@
 &lt;a href="./publication/gabryszak-etal-2024-enhancing/">Enhancing Editorial Tasks: A Case Study on Rewriting Customer Help Page Contents Using Large Language Models&lt;/a>.
 INLG 2024.
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.dfki.de/fileadmin/user_upload/import/15191_Telekom__FAQ_Rewriting__INLG_Review_Submission-1.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://aclanthology.org/2024.inlg-main.33.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
@@ -42,9 +42,18 @@ Project
 &lt;a href="./publication/bleick-etal-2024-german/">German Voter Personas can Radicalize LLM Chatbots via the Echo Chamber Effect&lt;/a>.
 INLG 2024.
 &lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://aclanthology.org/2024.inlg-main.13.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publication/bleick-etal-2024-german/cite.bib">
 Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/B43M/SycophancyLLMGermanPolitics/" target="_blank" rel="noopener">
+Code
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/B43M/SycophancyLLMGermanPolitics/" target="_blank" rel="noopener">
+Dataset
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="./project/trails/">
 Project
