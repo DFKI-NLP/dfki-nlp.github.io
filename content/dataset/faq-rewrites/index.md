@@ -9,7 +9,6 @@ The input data was provided by Deutsche Telekom AG (DT), a large German telecomm
 On this dataset, we evaluate the performance of four large language models (LLM) through diverse prompts tailored for the rewriting task. We conduct automatic evaluations of content and text quality using ROUGE, BERTScore, and ChatGPT. Furthermore, we let professional editors assess the helpfulness of automatically generated FAQ revisions for editorial enhancement. Our findings indicate that LLMs can produce FAQ reformulations beneficial to the editorial process. We observe minimal performance discrepancies among LLMs for this task, and our survey on helpfulness underscores the subjective nature of editors' perspectives on editorial refinement.
 
 For detailed results, please see our [paper](https://aclanthology.org/2024.inlg-main.13/) accepted at INLG 20204, Tokyo, Japan. You can find the Github repo containing the dataset here [https://github.com/DFKI-NLP/faq-rewrites-llms](https://github.com/DFKI-NLP/faq-rewrites-llms)."
-"
 
 date: 2024-09-18T00:00:00+00:00
 
