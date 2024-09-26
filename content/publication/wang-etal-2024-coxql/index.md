@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: ""
-authors: ["Qianli Wang", "Tatiana Anikina", "Nils Feldhus", "Simon Ostermann", "Sebastian Möller"}]
+authors: ["Qianli Wang", "Tatiana Anikina", "Nils Feldhus", "Simon Ostermann", "Sebastian Möller"]
 date: 2024-09-26T10:33:03+02:00
 doi: ""
 
