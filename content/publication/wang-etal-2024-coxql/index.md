@@ -37,8 +37,8 @@ featured: false
 #   icon: twitter
 
 url_pdf: "https://www.dfki.de/fileadmin/user_upload/import/15277_CoXQL.pdf"
-url_code: ""
-url_dataset: ""
+url_code: "https://github.com/DFKI-NLP/CoXQL"
+url_dataset: "https://github.com/DFKI-NLP/CoXQL"
 url_poster:
 url_project:
 url_slides:
