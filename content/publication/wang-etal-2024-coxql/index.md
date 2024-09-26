@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: ""
+title: "CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems "
 authors: ["Qianli Wang", "Tatiana Anikina", "Nils Feldhus", "Simon Ostermann", "Sebastian Möller"]
 date: 2024-09-26T10:33:03+02:00
 doi: ""
