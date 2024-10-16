@@ -38,7 +38,7 @@ featured: false
 
 url_pdf: "https://arxiv.org/pdf/2305.04582.pdf"
 url_code: "https://github.com/DFKI-NLP/MultiTACRED"
-url_dataset: "https://huggingface.co/datasets/DFKI-SLT/multitacred"
+url_dataset: "https://catalog.ldc.upenn.edu/LDC2024T09"
 url_poster:
 url_project:
 url_slides:
