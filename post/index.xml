@@ -306,7 +306,7 @@ Cite
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/DFKI-NLP/MultiTACRED" target="_blank" rel="noopener">
 Code
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://huggingface.co/datasets/DFKI-SLT/multitacred" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://catalog.ldc.upenn.edu/LDC2024T09" target="_blank" rel="noopener">
 Dataset
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="../project/cora4nlp/">
