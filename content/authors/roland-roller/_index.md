@@ -21,9 +21,20 @@ organizations:
 bio: 
 
 # List each interest with a dash
-#interests:
-#- Interest 1
-#- Interest 2
+interests:
+- Trustworthy Clinical Decision Support
+- Anonymization
+- Multimodal Machine Learning
+- Information Extraction
+- Chatots & LLM agents
+
+projects:
+- KIBATIN (AI-based assistance system for triaging in the emergency room)
+- PRIMA-AI (Prospectively investigating the impact of AI on shared decision-making in post-kidney transplant care)
+- Medinym (AI-based anonymization of personal patient data in clinical text and voice databases)
+- ADBoard (Therapeutic Assistance and Decision Algorithms for Hepatobiliary Tumor Boards)
+- SmartNTx (Interactive AI-based decision-making competence for transplant medicine)
+- Veranda (Trustworthy anonymization of sensitive patient data for remote consultations)
 
 #education:
 #  courses:
@@ -71,4 +82,4 @@ user_groups:
 # for filtering in portfolio widget
 tags: [Researchers]
 ---
-I am a senior researcher and project manager in the Speech and Language Technology group at the German Research Center for Artificial Intelligence (DFKI). I focus on natural language processing and machine learning topics with a high interest in the medical domain. I am working on various topics, such as trustworthy clinical decision support, anonymization, information extraction, chat, and LLM agents. Currently, I am working on the research projects KIBATIN (AI-based assistance system for triaging in the emergency room), PRIMA-AI (Prospectively investigating the impact of AI on shared decision-making in post-kidney transplant care), Medinym (AI-based anonymization of personal patient data in clinical text and voice databases), ADBoard (Therapeutic Assistance and Decision Algorithms for Hepatobiliary Tumor Boards), SmartNTx (Interactive AI-based decision-making competence for transplant medicine), and Veranda (Trustworthy anonymization of sensitive patient data for remote consultations). Please contact me if you are interested in our research or collaboration/supervision.
+I am a senior researcher and project manager in the Speech and Language Technology group at the German Research Center for Artificial Intelligence (DFKI). I focus on natural language processing and machine learning topics with a high interest in medical use cases. My work spans classical information extraction, anonymization, clinical decision support, chatbots and LLM agents. I work on various projects related to different medical domains, such as nephrology, emergency medicine, tumor boards, and sexual medicine.
