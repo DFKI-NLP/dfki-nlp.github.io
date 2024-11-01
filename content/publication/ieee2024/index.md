@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "[https://journals.sagepub.com/doi/full/10.1177/20552076241288681](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10703053)"
+url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10703053"
 url_code: 
 url_dataset:
 url_poster:
