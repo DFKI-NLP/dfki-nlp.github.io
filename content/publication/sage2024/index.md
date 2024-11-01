@@ -3,11 +3,11 @@
 
 title: "Unsupervised SapBERT-based bi-encoders for medical concept annotation of clinical narratives with SNOMED CT"
 authors: [Akhila Abdulnazar, Roland Roller, Stefan Schulz, Markus Kreuzthaler]
-date: 2024-11-01T00:00:00+00:00
+date: 2024-10-23T00:00:00+00:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-1-01T00:00:00+00:00
+publishDate: 2024-10-23T00:00:00+00:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
