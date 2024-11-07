@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>MEDINYM</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&family=Inter:wght@700;800&display=swap" rel="stylesheet">
+    
+    <!-- Icon Font Stylesheet -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container-xxl bg-white p-0">
+        <!-- Spinner Start -->
+        <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+            <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+        </div>
+        <!-- Spinner End -->
+
+
+        <!-- Navbar Start -->
+<nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
+    <a href="index.html" class="navbar-brand d-flex align-items-center text-center py-0 px-4 px-lg-5">
+        <img src="img/sample 71.png" alt="Logo" class="me-2" style="height: 70px;">
+    </a>
+    <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+        <div class="navbar-nav ms-auto p-4 p-lg-0">
+            <a href="index.html" class="nav-item nav-link">Home</a>
+            <a href="about.html" class="nav-item nav-link">About</a>
+            
+            <div class="nav-item dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false" id="servicesDropdown">
+                    Services
+                </a>
+                <div class="dropdown-menu dropdown-menu-end p-3 shadow-lg rounded-3 animated fadeIn" aria-labelledby="servicesDropdown" style="min-width: 200px; overflow: hidden;">
+                    <a href="OutliersAnalysis.html" class="dropdown-item enhanced-dropdown-item">
+                        <i class="fa fa-chart-line me-2"></i> Outliers Analysis
+                    </a>
+                    <a href="De-identification.html" class="dropdown-item enhanced-dropdown-item">
+                        <i class="fa fa-user-shield me-2"></i> De-identification
+                    </a>
+                    <a href="Anonymization.html" class="dropdown-item enhanced-dropdown-item">
+                        <i class="fa fa-user-secret me-2"></i> Anonymization
+                    </a>
+                </div>
+            </div>
+            <a href="contact.html" class="nav-item nav-link">Contact</a>
+        </div>
+        <a href="features.html" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Upcoming Features<i class="fa fa-arrow-right ms-3"></i></a>
+    </div>
+</nav>
+<!-- Navbar End -->
+
+<!-- Styles for Enhanced Navbar and Dropdown -->
+<style>
+/* Navbar Link Styles with Glow Effect */
+.navbar-nav .nav-link {
+    color: #333;
+    font-weight: 500;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+.navbar-nav .nav-link:hover, 
+.navbar-nav .nav-link.active {
+    color: #00B074;
+    text-shadow: 0px 4px 8px rgba(0, 176, 116, 0.5);
+}
+
+/* Enhanced Dropdown Styles */
+#servicesDropdown {
+    position: relative;
+}
+.dropdown-menu {
+    animation: enhancedFadeIn 0.3s ease-in-out forwards;
+    opacity: 0;
+    transform: scale(0.95);
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
+}
+.show > .dropdown-menu {
+    opacity: 1;
+    transform: scale(1);
+}
+@keyframes enhancedFadeIn {
+    from {
+        opacity: 0;
+        transform: scale(0.95);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+/* Enhanced Dropdown Item Styles */
+.enhanced-dropdown-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #333;
+    background: transparent;
+    transition: color 0.3s ease, background-color 0.3s ease;
+    font-weight: 500;
+    padding: 10px 15px;
+    border-radius: 8px;
+    position: relative;
+}
+.enhanced-dropdown-item::before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 100%;
+    background: rgba(0, 176, 116, 0.2);
+    border-radius: 8px;
+    transition: width 0.3s ease;
+    z-index: -1;
+}
+.enhanced-dropdown-item:hover::before {
+    width: 100%;
+}
+.enhanced-dropdown-item:hover {
+    color: #00B074;
+    text-shadow: 0px 4px 8px rgba(0, 176, 116, 0.5);
+}
+
+/* Icons */
+.enhanced-dropdown-item i {
+    color: #00B074;
+    transition: color 0.3s ease;
+}
+.enhanced-dropdown-item:hover i {
+    color: #028a5e;
+}
+</style>
+
+
+
+        <!-- Header End -->
+        <div class="container-xxl py-5 bg-dark page-header mb-5">
+            <div class="container my-5 pt-5 pb-4">
+                <h1 class="display-3 text-white mb-3 animated slideInDown">Motivation</h1>
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb text-uppercase">
+                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                        
+                        <li class="breadcrumb-item text-white active" aria-current="page">Motivation</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+        <!-- Header End -->
+
+
+        <!-- Motivation Start -->
+<div class="container-xxl py-5" style="background: #1a2a6c; background: linear-gradient(to right, #fdbb2d, #22c1c3); border-radius: 15px; box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2); overflow: hidden; position: relative;">
+    <div class="container">
+        <div class="row g-5 align-items-center">
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                <h1 class="animated-header mb-4" style="font-family: 'Playfair Display', serif; font-size: 2.6em; color: #004d40; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3); position: relative; z-index: 1;">
+                    <span class="highlight-text" style="display: inline-block; padding: 10px 20px; background: #ffffff; border-radius: 15px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); animation: slide-in 1s ease-out;">Motivation</span>
+                </h1>
+                <p class="animated-paragraph mb-4" style="font-family: 'Lato', sans-serif; font-size: 1.1em; line-height: 1.8; color: #004d40; background: rgba(255, 255, 255, 0.95); padding: 20px; border-left: 5px solid #004d40; border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); animation: fade-in 1s ease-in-out;">
+                    The <strong>MEDINYM project</strong> is driven by the imperative to harness the transformative potential of <strong>artificial intelligence (AI)</strong> in healthcare while upholding the paramount importance of patient privacy and data security. With the rapid advancement of AI technologies, there is a growing need to reconcile the benefits of data-driven medical innovations with the ethical and legal obligations to safeguard patient confidentiality. By addressing these challenges head-on, <strong>MEDINYM</strong> aims to pave the way for a future where cutting-edge AI solutions can be deployed with confidence, empowering healthcare professionals to deliver more personalized and effective care while respecting patient privacy rights.
+                </p>
+            </div>
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s"> <br><br><br><br>
+                <div class="row g-0 about-bg rounded overflow-hidden" style="box-shadow: 0 100px 110px rgba(0, 0, 0, 0.2); position: relative;">
+                    <div class="col-6 text-start" style="animation: zoom-in 1s ease-out;">
+                        <img class="img-fluid w-100 hover-zoom" src="img/Motivation1.jpg" style="border-radius: 20px; height: 260px; object-fit: cover; transform: scale(1.05); transition: transform 0.3s, filter 0.3s; filter: brightness(0.9); box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);">
+                    </div><br>
+                    <div class="col-6 text-end" style="animation: zoom-in 1s ease-out;">
+                        <img class="img-fluid hover-zoom" src="img/Motivation2.jpg" style="width: 100%; height: 270px; object-fit: cover; margin-top: 55%; border-radius: 20px; transform: scale(1.05); transition: transform 0.3s, filter 0.3s; filter: brightness(0.9); box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);">
+                    </div>
+                    <div class="svg-overlay" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); opacity: 0.1; animation: rotate 10s infinite linear;">
+                        <svg width="200" height="200">
+                            <circle cx="100" cy="100" r="80" fill="#00bcd4" />
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="floating-circles">
+        <div class="circle" style="top: -50px; left: -50px; width: 200px; height: 200px; animation: pulse 3s infinite;"></div>
+        <div class="circle" style="bottom: -50px; right: -50px; width: 200px; height: 200px; animation: pulse 3s infinite;"></div>
+        <div class="circle" style="top: 50%; left: 50%; width: 100px; height: 100px; animation: pulse 3s infinite;"></div>
+    </div>
+</div>
+<!-- Motivation End -->
+
+<!-- CSS Animations -->
+<style>
+@keyframes slide-in {
+    from { transform: translateX(-100%); }
+    to { transform: translateX(0); }
+}
+
+@keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes zoom-in {
+    from { transform: scale(0.8); }
+    to { transform: scale(1); }
+}
+
+@keyframes rotate {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+@keyframes pulse {
+    0%, 100% { transform: scale(1); opacity: 0.5; }
+    50% { transform: scale(1.1); opacity: 1; }
+}
+
+@keyframes highlight {
+    0%, 100% { transform: scaleX(0); }
+    50% { transform: scaleX(1); }
+}
+
+.animated-header span {
+    display: inline-block;
+    animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+.highlight-text::after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 5px;
+    background: #00B074;
+    margin-top: 10px;
+    animation: highlight 2s infinite;
+}
+
+.hover-zoom:hover {
+    transform: scale(1.1);
+    filter: brightness(1);
+}
+
+.svg-overlay {
+    pointer-events: none;
+}
+
+.svg-overlay:hover {
+    opacity: 0.2;
+}
+
+.floating-circles .circle {
+    position: absolute;
+    background: radial-gradient(circle, rgba(0,188,212,0.2) 0%, rgba(0,188,212,0) 70%);
+    border-radius: 50%;
+    opacity: 0.5;
+    animation: pulse 3s infinite;
+}
+
+.animated-paragraph {
+    animation: fade-in 1s ease-in-out, slide-up 1s ease-in-out;
+}
+
+@keyframes slide-up {
+    from { transform: translateY(20px); }
+    to { transform: translateY(0); }
+}
+</style>
+
+
+
+        <!-- Footer Start -->
+        <div class="container-fluid bg-dark text-white-50 footer pt-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
+            <div class="container py-5">
+                <div class="row g-5">
+                    <div class="col-lg-3 col-md-6">
+                        <h5 class="text-white mb-4">Company</h5>
+                        <a class="btn btn-link text-white-50" href="">About Us</a>
+                        <a class="btn btn-link text-white-50" href="">Contact Us</a>
+                        <a class="btn btn-link text-white-50" href="">Our Services</a>
+                        <a class="btn btn-link text-white-50" href="">Privacy Policy</a>
+                        <a class="btn btn-link text-white-50" href="">Terms & Condition</a>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <h5 class="text-white mb-4">Quick Links</h5>
+                        <a class="btn btn-link text-white-50" href="">About Us</a>
+                        <a class="btn btn-link text-white-50" href="">Contact Us</a>
+                        <a class="btn btn-link text-white-50" href="">Our Services</a>
+                        <a class="btn btn-link text-white-50" href="">Privacy Policy</a>
+                        <a class="btn btn-link text-white-50" href="">Terms & Condition</a>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <h5 class="text-white mb-4">Contact</h5>
+                        <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, Berlin, Germany</p>
+                        <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+49 111 1111111</p>
+                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                        <div class="d-flex pt-2">
+                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-youtube"></i></a>
+                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <h5 class="text-white mb-4">Newsletter</h5>
+                        <p>Stay Protected, Stay Informed: Join Our Newsletter!</p>
+                        <div class="position-relative mx-auto" style="max-width: 400px;">
+                            <input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
+                            <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="copyright">
+                    <div class="row">
+                        <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                            &copy; <a class="border-bottom" href="index.html">MEDINYM</a>, All Right Reserved. 
+							
+							
+							Designed By <a class="border-bottom" href="https://www.dfki.de/web">DFKI</a>
+                        </div>
+                        <div class="col-md-6 text-center text-md-end">
+                            <div class="footer-menu">
+                                <a href="">Home</a>
+                                <a href="">Cookies</a>
+                                <a href="">Help</a>
+                                <a href="">FQAs</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Footer End -->
+
+
+        <!-- Back to Top -->
+        <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+    </div>
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+</body>
+
+</html>
