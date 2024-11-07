@@ -76,4 +76,8 @@ tags: [Researchers]
 ---
 I am a senior researcher and project manager in the Speech and Language Technology group at the German Research Center for Artificial Intelligence (DFKI). I focus on natural language processing and machine learning topics with a high interest in medical use cases. My work spans classical information extraction, anonymization, clinical decision support, chatbots and LLM agents. I work on various projects related to different medical domains, such as nephrology, emergency medicine, tumor boards, and sexual medicine. Here is the list of current projects: [KIBATIN](https://www.dfki.de/en/web/research/projects-and-publications/project/kibatin), [PRIMA-AI](https://www.dfki.de/en/web/research/projects-and-publications/project/prima-ai), [Medinym](https://www.dfki.de/en/web/research/projects-and-publications/project/medinym), [ADBoard](https://www.dfki.de/en/web/research/projects-and-publications/project/adboard), [SmartNTx](https://www.dfki.de/en/web/research/projects-and-publications/project/smartntx), and [Veranda](https://www.dfki.de/en/web/research/projects-and-publications/project/veranda). Please contact me if you are interested in our research, collaboration/supervision or would like to visit us.
 
+*Highlights*:
+
+Organization of the shared task [MedNLP-CHAT](https://sociocom.naist.jp/mednlp-chat/), which evaluates medical chatbots to address healthcare resource challenges, focusing on potential medical, legal, and ethical risks by analyzing chatbot responses to medical questions for possible issues.
+
 
