@@ -9,7 +9,7 @@ categories: []
 date: 2022-01-20T11:16:31+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://bifold.berlin/de/"
+external_link: "https://www.bifold.berlin/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
