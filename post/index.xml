@@ -855,4 +855,29 @@ Cite
 &lt;/a>
 &lt;/p>
 &lt;/div>
-&lt;/p></description></item></channel></rss>
+&lt;/p></description></item><item><title>Paper accepted at NLP4Ecology 2025</title><link>https://dfki-nlp.github.io/post/castle_entity_2025/</link><pubDate>Thu, 31 Mar 2022 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/castle_entity_2025/</guid><description>&lt;p>The paper &amp;ldquo;Entity Linking using LLMs for Automated Product Carbon Footprint Estimation&amp;rdquo; has been accepted for presentation at the 1st Workshop on Ecology, Environment, and Natural Language Processing. This workshop, co-located with the Nordic Conference on Computational Linguistics (NoDaLiDa), takes place on the 2nd of March in Tallinn, Estonia. This paper presents a system for automated mapping of components from manufacturer bills of materials (BoMs) to a life cycle assessment (LCA) database in order to estimate product carbon emissions.&lt;/p>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="../authors/steffen-castle/">Steffen Castle&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/julian-moreno-schneider/">Julian Moreno Schneider&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/leonhard-hennig/">Leonhard Hennig&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/georg-rehm/">Georg Rehm&lt;/a>&lt;/span>
+&lt;/span>
+(2025).
+&lt;a href="../publication/castle-entity-nlp4ecology-2025/">Entity Linking using LLMs for Automated Product Carbon Footprint Estimation&lt;/a>.
+NLP4Ecology 2025.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/DFKI-NLP/eco-link/blob/master/castle_entity_mapping_1.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/castle-entity-nlp4ecology-2025/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/DFKI-NLP/eco-link/" target="_blank" rel="noopener">
+Code
+&lt;/a>
+&lt;/p>
+&lt;/div></description></item></channel></rss>
