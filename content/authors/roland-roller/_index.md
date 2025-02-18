@@ -78,6 +78,7 @@ I am a senior researcher and project manager in the Speech and Language Technolo
 
 *Highlights*:
 
-Organization of the shared task [MedNLP-CHAT](https://sociocom.naist.jp/mednlp-chat/), which evaluates medical chatbots to address healthcare resource challenges, focusing on potential medical, legal, and ethical risks by analyzing chatbot responses to medical questions for possible issues.
+- Organization of the shared task [SMM4H-HeaRD 2025](https://healthlanguageprocessing.org/smm4h-2025/), about multilingual adverse drug detection from social media, covering the languages in German, French, Russian and English.
+- Organization of the shared task [MedNLP-CHAT](https://sociocom.naist.jp/mednlp-chat/), which evaluates medical chatbots to address healthcare resource challenges, focusing on potential medical, legal, and ethical risks by analyzing chatbot responses to medical questions for possible issues.
 
 
