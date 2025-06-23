@@ -10,12 +10,14 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
 - name: DFKI
   url: "https://www.dfki.de"
+- name: TU Berlin
+  url: https://www.tu.berlin/en/qu/research/research-groups/xplainlp
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -66,8 +68,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni 
 
 # for filtering in portfolio widget
-tags: [PhD Candidates]
+tags: [Alumni]
 ---
