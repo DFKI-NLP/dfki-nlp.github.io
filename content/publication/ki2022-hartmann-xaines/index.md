@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "XAINES: Explaining AI with Narratives"
-authors: ["Hartmann, Mareike" and "Du, Han" and "Feldhus, Nils" and "Kruijff-Korbayová, Ivana" and "Sonntag, Daniel"]
+authors: ["Mareike Hartmann", "Han Du" and "Nils Feldhus" and "Ivana Kruijff-Korbayová" and "Daniel Sonntag"]
 date: 2022-11-21
 doi: "10.1007/s13218-022-00780-8"
 
