@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Latest News | DFKI-NLP</title><link>https://dfki-nlp.github.io/post/</link><atom:link href="https://dfki-nlp.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Latest News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© DFKI-NLP 2019-2025</copyright><lastBuildDate>Mon, 03 Feb 2025 09:24:01 +0200</lastBuildDate><image><url>https://dfki-nlp.github.io/images/icon_hu15d4cd24fad375030c8e4d8f45deb950_164099_512x512_fill_lanczos_center_2.png</url><title>Latest News</title><link>https://dfki-nlp.github.io/post/</link></image><item><title>One paper by DFKI-NLP authors accepted to COLING 2025</title><link>https://dfki-nlp.github.io/post/coling2025/</link><pubDate>Mon, 03 Feb 2025 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/coling2025/</guid><description>&lt;p>One paper originating from research in the TRAILS project has been accepted to the Main Track at the 31st International Conference on Computational Linguistics 2025 (COLING 2025). In the paper, we present CROSS-REFINE, a generator-critic framework that enhances natural language explanations by refining initial outputs using feedback from a second LLM, outperforming SELF-REFINE and working effectively even with less powerful models.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Latest News | DFKI-NLP</title><link>https://dfki-nlp.github.io/post/</link><atom:link href="https://dfki-nlp.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Latest News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© DFKI-NLP 2019-2025</copyright><lastBuildDate>Wed, 11 Jun 2025 09:24:01 +0200</lastBuildDate><image><url>https://dfki-nlp.github.io/images/icon_hu15d4cd24fad375030c8e4d8f45deb950_164099_512x512_fill_lanczos_center_2.png</url><title>Latest News</title><link>https://dfki-nlp.github.io/post/</link></image><item><title>One paper by DFKI-NLP authors accepted to ACL 2025 Findings</title><link>https://dfki-nlp.github.io/post/acl2025/</link><pubDate>Wed, 11 Jun 2025 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/acl2025/</guid><description>&lt;p>One paper by Qianli Wang and Nils Feldhus has been accepted to the Findings Track at the &lt;a href="https://2025.aclweb.org/" target="_blank" rel="noopener">63rd Annual Meeting of the Association for Computational Linguistics 2025 (ACL 2025)&lt;/a>. In the paper, they introduce ZeroCF, a faithful approach for leveraging important words derived from feature attribution methods to generate counterfactual examples in a zero-shot setting. Second, they present a new framework, FitCF, which further verifies aforementioned counterfactuals by label flip verification and then inserts them as demonstrations for few-shot prompting.&lt;/p>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="../authors/qianli-wang/">Qianli Wang&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/nils-feldhus/">Nils Feldhus&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/simon-ostermann/">Simon Ostermann&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/luis-felipe-villa-arenas/">Luis-Felipe Villa-Arenas&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/sebastian-moller/">Sebastian Möller&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/vera-schmitt/">Vera Schmitt&lt;/a>&lt;/span>
+&lt;/span>
+(2025).
+&lt;a href="../publication/wang-etal-2025-fitcf/">FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation&lt;/a>.
+ACL 2025 Findings.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/2501.00777" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/wang-etal-2025-fitcf/cite.bib">
+Cite
+&lt;/a>
+&lt;/p>
+&lt;/div></description></item><item><title>One paper by DFKI-NLP authors accepted to RepL4NLP 2025 (at NAACL 2025)</title><link>https://dfki-nlp.github.io/post/repl4nlp-2025/</link><pubDate>Sun, 04 May 2025 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/repl4nlp-2025/</guid><description>&lt;p>One paper originating from research in the TRAILS project has been accepted to the &lt;a href="https://sites.google.com/view/repl4nlp2025" target="_blank" rel="noopener">10th Workshop on Representation Learning for NLP (RepL4NLP 2025)&lt;/a>, co-located with &lt;a href="https://2025.naacl.org/" target="_blank" rel="noopener">NAACL 2025&lt;/a>. In the paper, we reimagine classical probing to evaluate knowledge transfer from simple source to more complex target tasks. Instead of probing frozen representations from a complex source task on diverse simple target probing tasks (as usually done in probing), we explore the effectiveness of embeddings from multiple simple source tasks on a single target task. Our findings reveal that task embeddings vary significantly in utility for coreference resolution, with semantic similarity tasks (e.g., paraphrase detection) proving most beneficial. Additionally, representations from intermediate layers of fine-tuned models often outperform those from final layers.&lt;/p>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="../authors/tatiana-anikina/">Tatiana Anikina&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/arne-binder/">Arne Binder&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/david-harbecke/">David Harbecke&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/stalin-varanasi/">Stalin Varanasi&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/leonhard-hennig/">Leonhard Hennig&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/simon-ostermann/">Simon Ostermann&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/sebastian-moller/">Sebastian Möller&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="../authors/josef-van-genabith/">Josef van Genabith&lt;/a>&lt;/span>
+&lt;/span>
+(2025).
+&lt;a href="../publication/anikina-etal-2025-reverse/">Reverse Probing: Evaluating Knowledge Transfer via Finetuned Task Embeddings for Coreference Resolution&lt;/a>.
+Rep4NLP-2025.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://openreview.net/pdf?id=V4ssTPCogS" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/anikina-etal-2025-reverse/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="../project/trails/">
+Project
+&lt;/a>
+&lt;/p>
+&lt;/div></description></item><item><title>One paper by DFKI-NLP authors accepted to COLING 2025</title><link>https://dfki-nlp.github.io/post/coling2025/</link><pubDate>Mon, 03 Feb 2025 09:24:01 +0200</pubDate><guid>https://dfki-nlp.github.io/post/coling2025/</guid><description>&lt;p>One paper originating from research in the TRAILS project has been accepted to the Main Track at the 31st International Conference on Computational Linguistics 2025 (COLING 2025). In the paper, we present CROSS-REFINE, a generator-critic framework that enhances natural language explanations by refining initial outputs using feedback from a second LLM, outperforming SELF-REFINE and working effectively even with less powerful models.&lt;/p>
 &lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
