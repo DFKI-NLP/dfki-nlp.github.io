@@ -15,16 +15,16 @@ content:
   # Automatically link email and phone or display as text?
   autolink: false 
   address:
-        street: Alt-Moabit 91c
+        street: Salzufer 15/16
         city: Berlin
         region: Berlin
-        postcode: '10559'
+        postcode: '10587'
         country: Germany
         country_code: DE
   coordinates:
-    latitude: '52.524157758149656'
-    longitude: '13.344159998294586'
-  directions: Enter Alt-Moabit 91c and take the elevator to Reception on Floor 4
+    latitude: '52.51878'
+    longitude: '13.32207'
+  directions: Enter Salzufer 15/16 and take the elevator to Reception on Floor 4
   office_hours:
     - '9:00 to 17:00 Monday to Friday'
   
