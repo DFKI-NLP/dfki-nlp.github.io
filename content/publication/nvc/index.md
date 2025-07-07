@@ -3,7 +3,7 @@
 
 title: "Neural Vector Conceptualization for Word Vector Space Interpretation"
 authors: [Robert Schwarzenberg, Lisa Raithel, David Harbecke]
-date: 2019-04
+date: 2019-04-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

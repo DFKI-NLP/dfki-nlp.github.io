@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Projects
-subtitle: ''
+#subtitle: ''
 
 content:
   # Page type to display. E.g. project.
@@ -47,7 +47,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: compact
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

@@ -3,7 +3,7 @@
 
 title: "Cross-lingual Neural Vector Conceptualization"
 authors: [Lisa Raithel, Robert Schwarzenberg]
-date: 2019-09
+date: 2019-09-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

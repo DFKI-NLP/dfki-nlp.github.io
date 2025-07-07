@@ -1,0 +1,135 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+appearance:
+  theme_day: Ocean
+  theme_night:
+  font: native
+  font_size: L
+
+
+#address:
+#  street: "Alt-Moabit 91c"
+#  city: "Berlin"
+#  region: "Berlin"
+#  postcode: "10559"
+#  country: "Germany"
+#  country_code: "DE"
+
+#coordinates:
+#  latitude: "52.524157758149656"
+#  longitude: "13.344159998294586"
+
+#directions: "Enter Alt-Moabit 91c and take the elevator to Reception on Floor 4"
+
+#office_hours: ["9:00 to 17:00 Monday to Friday"]
+
+# SEO
+
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ''
+    org_name: ''
+    description: 'Research Group'
+    twitter: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+
+header:
+  navbar:
+    enable: true
+    align: r
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: false
+
+# Site footer
+
+footer:
+  copyright:
+    notice: '© {year} Me. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+
+locale:
+  date_format: '2. Januar 2006'
+  time_format: '15:04'
+  address_format: de
+
+# Site features
+
+features:
+  syntax_highlighter:
+    enable: false
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: false
+  privacy_pack:
+    enable: true
+  repository:
+    url: 'https://github.com/DFKI-NLP/dfki-nlp.github.io'
+    content_dir: content
+    branch: src
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  decap_cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+
+# Citation style
+
+publications:
+  date_format: January 2006
+  citation_style: apa

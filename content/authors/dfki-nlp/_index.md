@@ -73,14 +73,14 @@ email: ""
 highlight_name: false
 ---
 
-DFKI-NLP is a Natural Language Processing group of researchers, software engineers and students at the Berlin office of the German Research Center for Artificial Intelligence (DFKI) working on basic and applied research in areas covering, among others, information extraction, knowledge base population, dialogue, sentiment analysis, and summarization. We are particularly interested in core research on learning in low-resource settings, reasoning over larger contexts, and continual learning. We strive for a deeper understanding of human language and thinking, with the goal of developing novel methods for processing and generating human language text, speech, and knowledge.  An important part of our work is the creation of corpora, the evaluation of NLP datasets and tasks, and the explainability of (neural) models. 
+DFKI-NLP is a Natural Language Processing group of researchers, software engineers and students at the Berlin office of the German Research Center for Artificial Intelligence (DFKI). We're working on basic and applied research in areas covering, among others, information extraction, knowledge base population, dialogue, sentiment analysis, and summarization, across various domains such as health, media, and science. We are particularly interested in core research on learning in low-resource settings, reasoning over larger contexts, and continual learning. We strive for a deeper understanding of human language and thinking, with the goal of developing novel methods for processing and generating human language text, speech, and knowledge.  An important part of our work is the creation of corpora, the evaluation of NLP datasets and tasks, and explainability research. 
 
 Key topics:
-- Applied / domain-specific information extraction
-- Learning in low-resource settings and over large contexts
-- Construction and analysis of IE datasets, linguistic annotation
-- Multilingual information extraction
+- Applied / domain-specific NLP
 - Evaluation methodology research
+- Dataset construction, linguistic annotation, synthetic data generation
+- Learning in low-resource settings and over large contexts
+- Multilingual NLP
 - Explainability
 
-Our group forms a part of DFKI's [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) department led by Prof. Sebastian Möller, and closely collaborates with e.g. the [Technische Universität Berlin](https://www.tu.berlin/en/), DFKI's [Language Technology and Multilinguality](https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology/) department and DFKI's [Intelligent Analytics for Massive Data](https://www.dfki.de/en/web/research/research-departments/intelligent-analytics-for-massive-data/) group.
+Our group forms a part of DFKI's [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) department led by Prof. Sebastian Möller, and closely collaborates with e.g. the [Quality and Usability chair of Technische Universität Berlin](https://www.tu.berlin/en/qu), DFKI's [Multilinguality and Language Technology](https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology/) department and the [XPlaiNLP group](https://xplainlp.github.io/) of TU Berlin.

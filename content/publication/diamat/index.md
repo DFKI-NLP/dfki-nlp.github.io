@@ -3,7 +3,7 @@
 
 title: "Train, Sort, Explain: Learning to Diagnose Translation Models"
 authors: [Robert Schwarzenberg, David Harbecke, Vivien Macketanz, Eleftherios Avramidis, Sebastian Möller]
-date: 2019-03
+date: 2019-03-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

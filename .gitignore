@@ -4,5 +4,4 @@
 # Hugo
 /resources/
 public/
-jsconfig.json
-node_modules/
+assets/jsconfig.json

@@ -7,7 +7,6 @@ active: true
 weight: 70
 
 title: People
-subtitle: 
 
 content:
   user_groups: 
@@ -69,4 +68,4 @@ design:
 
   # Text color (true=light or false=dark).
   # text_color_light: true  
---- 
+---

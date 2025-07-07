@@ -1,16 +1,16 @@
-+++
+---
 # A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 100  # Order that this section will appear.
+widget: "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless: true  # This file represents a page section.
+active: true  # Activate this widget? true/false
+weight: 100  # Order that this section will appear.
 
-title = "Datasets"
-subtitle = ""
+title: "Datasets"
+subtitle:
 
-[content]
+content:
   # Page type to display. E.g. project.
-  page_type = "dataset"
+  page_type: "dataset"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -19,7 +19,7 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  filter_default: 0
   
   # [[content.filter_button]]
   #    name = "All"
@@ -33,21 +33,21 @@ subtitle = ""
   #   name = "Other"
   #   tag = "Demo"
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+design:
+# Choose how many columns the section has. Valid values: 1 or 2.
+  columns: "2"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
+  #   4 = citation
   #   5 = Showcase
-  view = 2
+  view: card
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
-
-[design.background]
+  flip_alt_rows: false
+  background:
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
@@ -67,10 +67,10 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-[advanced]
+advanced:
  # Custom CSS. 
- css_style = ""
+ css_style: ""
  
  # CSS class.
- css_class = ""
-+++
+ css_class: ""
+---
