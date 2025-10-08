@@ -7,8 +7,8 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 2025-09-30T09:24:01+02:00
-lastmod: 2025-09-30T09:24:01+02:00
+date: 2025-09-30
+lastmod: 2025-09-30
 featured: false
 draft: false
 
