@@ -72,7 +72,8 @@ footer:
 # Localization
 
 locale:
-  date_format: '2. Januar 2006'
+  #date_format: '2. Januar 2006'
+  date_format: 'January 2, 2006'
   time_format: '15:04'
   address_format: de
 
