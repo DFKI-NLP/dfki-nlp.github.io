@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: Researcher 
 
 # Organizations/Affiliations
 organizations:
@@ -66,8 +66,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Researcher
 
 # for filtering in portfolio widget
-tags: [PhD Candidates]
+tags: [Researcher]
 ---
