@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "1 paper to be presented at LREC 2026"
+title: "One paper to be presented at LREC 2026"
 subtitle: ""
 summary: ""
 authors: []
