@@ -9,7 +9,7 @@ authors:
 - Astrid Rheinländer
 - Philippe Thomas
 date: '2026-05-11'
-publishDate: '2024-09-21T13:10:18.998131Z'
+publishDate: '2026-05-01T13:10:18.998131Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)*'
