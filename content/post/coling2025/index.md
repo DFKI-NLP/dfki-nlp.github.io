@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-One paper originating from research in the TRAILS project has been accepted to the Main Track at the 31st International Conference on Computational Linguistics 2025 (COLING 2025). In the paper, we present CROSS-REFINE, a generator-critic framework that enhances natural language explanations by refining initial outputs using feedback from a second LLM, outperforming SELF-REFINE and working effectively even with less powerful models.
+One paper originating from researchers in the DFKI-NLP group has been accepted to the Main Track at the 31st International Conference on Computational Linguistics 2025 (COLING 2025). In the paper, we present CROSS-REFINE, a generator-critic framework that enhances natural language explanations by refining initial outputs using feedback from a second LLM, outperforming SELF-REFINE and working effectively even with less powerful models.
 
 {{< cite page="/publication/wang-etal-2025-cross" view="4" >}}
 

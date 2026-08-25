@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-Two papers from researchers in the TRAILS project have been accepted as Main and Findings papers at the [2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)](https://2025.emnlp.org/). EMNLP will take place November 4-9 in Suzhou, China. The first paper, titled "Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems", introduces two multilingual datasets in the context of Conversational XAI systems, one for intent recognition, and one for slot filling / input extraction. The second paper investigates political bias in LLMs through exchanging words in minimal sentence pairs with euphemisms or dysphemisms in German claims. 
+Two papers from researchers in the DFKI-NLP group have been accepted as Main and Findings papers at the [2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)](https://2025.emnlp.org/). EMNLP will take place November 4-9 in Suzhou, China. The first paper, titled "Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems", introduces two multilingual datasets in the context of Conversational XAI systems, one for intent recognition, and one for slot filling / input extraction. The second paper investigates political bias in LLMs through exchanging words in minimal sentence pairs with euphemisms or dysphemisms in German claims. 
 
 {{< cite page="/publication/wang-etal-2025-multilingual" view="4" >}}
 {{< cite page="/publication/jakob-2025-polbix" view="4" >}}
