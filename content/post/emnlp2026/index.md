@@ -36,12 +36,11 @@ The first paper, titled "Training-Free Character-Length Control in Summarization
 {{< cite page="/publication/castle-emnlp2026-diffusion" view="4" >}}
 {{< cite page="/publication/baroud-emnlp2026-dpipi" view="4" >}}
 {{< cite page="/publication/wang-emnlp2026-can-llms" view="4" >}}
-
+{{< cite page="/publication/castle-blackboxnlp2026-sum" view="4" >}}
 
 Additional papers:
 
 - [Janzen et al. "Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation"](https://arxiv.org/abs/2603.24359)
 - [Jakob et al. "Exploring Confirmation Bias: LLMs Perceive Democratic Claims as More Truthful Independently of their Content"]()
 - [Ahmad et al. "Does Finetuning with Scientific Data Increase Hallucinations? A Multi-domain Factuality Evaluation of LLMs"](https://arxiv.org/abs/2606.21359v2)
-- [Castle et al. "The Sum Is Less Than Its Parts: Decomposing the Attention Write by Source Detects Contextual Hallucinations"]()
 

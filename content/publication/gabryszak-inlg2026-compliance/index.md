@@ -1,0 +1,19 @@
+---
+title: 'Compliance Assessment and Justification Generation for Journalistic Self-Regulation'
+authors:
+- Aleksandra Gabryszak
+- Danylo Mysak
+- Shushen Manakhimova
+- Leonhard Hennig
+date: '2026-10-17'
+publishDate: '2026-10-14T03:10:18.998131Z'
+publication_types:
+- paper-conference
+publication: '*Non-archival poster presentation at INLG 2026*'
+abstract: 'Journalistic self-regulation relies on press codes defining standards for accuracy, non-discrimination, privacy protection, among others. Assessing compliance requires applying diverse abstract norms to publications to determine which Press Code provisions are violated and why. Generating well-reasoned justifications makes LLM-based compliance assessments transparent. Such assessments could support regulators handling complaints and content producers seeking to identify violations before publication, including in AI-generated content. To investigate this, we use decisions of the German Press Council, which reviews complaints about publications under the 16 rules of the German Press Code. We extract the complaint, publisher response, and final ruling from each decision, providing gold standards for violated provisions, severity, and justification. For 160 decisions, we retrieve articles to construct a multi-label evaluation set. We evaluate GPT-5.1 using a prompt-based approach with a Press Code expert persona, assessing violations in three settings: article only, complaint and publisher response, and all inputs combined. All settings provide all 16 rules as context. For justification evaluation, GPT-4o decomposes reference and generated justifications into claims and identifies covered reference claims to compute argument recall. Results indicate that context substantially affects compliance assessment and justification quality. Rule-level violation detection achieves moderate performance in the article-only setting and improves notably with complaint and publisher response information. In binary violation detection, the model tends to predict violations over non-violations. Severity assessment remains challenging but also benefits from additional context. Argument recall is low with the article only but increases considerably when complaint and publisher response are included. Future work will extend the data, refine compliance and argument evaluation.'
+url_pdf: 
+links:
+- name: URL
+  url: https://openreview.net/forum?id=wzkZr0nDlJ 
+
+---

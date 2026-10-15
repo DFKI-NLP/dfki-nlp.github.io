@@ -1,0 +1,13 @@
+@inproceedings{castle-etal-2026-sum,
+  title = {The Sum Is Less Than Its Parts: Decomposing the Attention Write by Source Detects Contextual Hallucinations},
+  author = {Castle, Steffen and Nasert, Maximilian Dustin and Ebert, Christopher and Hennig, Leonhard and Möller, Sebastian and Feldhus, Nils},
+  booktitle = {Proceedings of the 9th {B}lackbox{NLP} Workshop: Analyzing and Interpreting Neural Networks for {NLP}},
+  month = {Oct},
+  year = {2026},
+  pages = {},
+  address = {Budapest, Hungary},
+  publisher = {Association for Computational Linguistics},
+  editor = {},
+  doi = {},
+  abstract = {When a language model answers from a retrieved document, its attention heads mix evidence from the context with evidence from the model's own self-generated tokens and write the sum into the residual stream. We split each head's write into these two source-specific contributions before they are summed, and find that the two sides are complementary. The context write, read out along the model's unembedding, gives a training-free groundedness score, GroundHOG-U. The response write (its magnitude and directional agreement with the other residual writes) gives a supervised hallucination detector, GroundHOG. Across grounded-generation benchmarks and model families, GroundHOG beats prior internal-state detectors, and GroundHOG-U is the strongest training-free groundedness signal on the multi-model benchmarks.}
+}
